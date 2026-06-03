@@ -61,26 +61,31 @@ def get_questions():
 
     try:
         with open("dataset/analytical.json") as f:
-            questions += json.load(f)
+            analytical = json.load(f)
+            print("Analytical:", len(analytical))
+            questions += analytical
 
         with open("dataset/general.json") as f:
-            questions += json.load(f)
+            general = json.load(f)
+            print("General:", len(general))
+            questions += general
 
         with open("dataset/numerical.json") as f:
-            questions += json.load(f)
+            numerical = json.load(f)
+            print("Numerical:", len(numerical))
+            questions += numerical
 
         with open("dataset/verbal.json") as f:
-            questions += json.load(f)
+            verbal = json.load(f)
+            print("Verbal:", len(verbal))
+            questions += verbal
+
+        print("TOTAL QUESTIONS:", len(questions))
 
     except Exception as e:
-        print("Error loading dataset:", e)
+        print("ERROR LOADING DATA:", e)
         return jsonify({"error": str(e)})
-print("TOTAL QUESTIONS:", len(questions))
-print("Analytical:", len(json.load(open("dataset/analytical.json"))))
-print("General:", len(json.load(open("dataset/General.json"))))
-print("Numerical:", len(json.load(open("dataset/Numerical.json"))))
-print("Verbal:", len(json.load(open("dataset/Verbal.json"))))
-    # ✅ Always return JSON format
+
     return jsonify(questions)
 
     # ✅ Try balanced selection (safe version)
