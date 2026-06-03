@@ -687,5 +687,807 @@
     "subject": "General Knowledge",
     "subtopic": "Civics",
     "explanation": "A referendum allows citizens to approve or reject a law directly."
-  }
+  },
+  {
+  "id": "496",
+  "subject": "General",
+  "subtopic": "Philippine History",
+  "question": "Who is the national hero of the Philippines?",
+  "choices": ["Bonifacio", "Rizal", "Aguinaldo", "Luna"],
+  "answer": "Rizal",
+  "explanation": "Dr. José Rizal is recognized as the national hero because of his writings that inspired Filipino nationalism and peaceful reform during Spanish colonization."
+},
+{
+  "id": "497",
+  "subject": "General",
+  "subtopic": "Science",
+  "question": "Why is Mars called the Red Planet?",
+  "choices": ["Because of lava", "Because of soil composition", "Because of water", "Because of its heat"],
+  "answer": "Because of soil composition",
+  "explanation": "Mars appears red due to iron oxide (rust) on its surface. This mineral gives the planet its reddish color when seen from Earth."
+},
+{
+  "id": "498",
+  "subject": "General",
+  "subtopic": "ICT",
+  "question": "What is the main function of a CPU?",
+  "choices": ["Storage", "Processing data", "Display", "Printing"],
+  "answer": "Processing data",
+  "explanation": "The CPU (Central Processing Unit) is the brain of the computer. It processes instructions, performs calculations, and controls system operations."
+},
+{
+  "id": "521",
+  "subject": "General",
+  "subtopic": "Science",
+  "question": "What gas do plants absorb during photosynthesis?",
+  "choices": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+  "answer": "Carbon dioxide",
+  "explanation": "Plants absorb carbon dioxide (CO₂) and, using sunlight, convert it into glucose while releasing oxygen."
+},
+{
+  "id": "522",
+  "subject": "General",
+  "subtopic": "Philippine Government",
+  "question": "What is the term of a Philippine President?",
+  "choices": ["4 years", "5 years", "6 years", "7 years"],
+  "answer": "6 years",
+  "explanation": "The Philippine Constitution states that the President serves a single term of 6 years with no re-election."
+},
+{
+  "id": "523",
+  "subject": "General",
+  "subtopic": "Geography",
+  "question": "Which is the longest river in the world?",
+  "choices": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+  "answer": "Nile",
+  "explanation": "The Nile River is traditionally considered the longest river in the world at about 6,650 kilometers."
+},
+{
+  "id": "534",
+  "subject": "General",
+  "subtopic": "Philippine Government",
+  "question": "What branch of government makes laws?",
+  "choices": ["Executive", "Judicial", "Legislative", "Local"],
+  "answer": "Legislative",
+  "explanation": "The Legislative branch (Congress) is responsible for creating and passing laws."
+},
+{
+  "id": "535",
+  "subject": "General",
+  "subtopic": "Science",
+  "question": "What is the boiling point of water at sea level?",
+  "choices": ["90°C", "95°C", "100°C", "105°C"],
+  "answer": "100°C",
+  "explanation": "At standard atmospheric pressure, water boils at 100°C."
+},
+{
+  "id": "536",
+  "subject": "General",
+  "subtopic": "Philippine History",
+  "question": "Who founded the Katipunan?",
+  "choices": ["Rizal", "Bonifacio", "Aguinaldo", "Luna"],
+  "answer": "Bonifacio",
+  "explanation": "Andrés Bonifacio founded the Katipunan to fight Spanish rule."
+},
+{
+  "id": "539",
+  "subject": "General",
+  "subtopic": "Government",
+  "question": "What is the upper chamber of Congress?",
+  "choices": ["House of Representatives", "Senate", "Cabinet", "Judiciary"],
+  "answer": "Senate",
+  "explanation": "The Philippine Congress has two chambers: Senate (upper) and House (lower)."
+},
+{
+  "id": "540",
+  "subject": "General",
+  "subtopic": "Science",
+  "question": "What is H2O commonly known as?",
+  "choices": ["Hydrogen", "Oxygen", "Water", "Salt"],
+  "answer": "Water",
+  "explanation": "H2O is the chemical formula for water (2 Hydrogen, 1 Oxygen)."
+},
+{
+  "id": "541",
+  "subject": "General",
+  "subtopic": "Geography",
+  "question": "Which continent is the Philippines part of?",
+  "choices": ["Asia", "Europe", "Africa", "Australia"],
+  "answer": "Asia",
+  "explanation": "The Philippines is located in Southeast Asia."
+},
+{
+  "id": "542",
+  "subject": "General",
+  "subtopic": "ICT",
+  "question": "What device is used to input text?",
+  "choices": ["Monitor", "Keyboard", "Printer", "Speaker"],
+  "answer": "Keyboard",
+  "explanation": "Keyboard allows users to input text into a computer."
+},
+{
+  "id": "543",
+  "subject": "General",
+  "subtopic": "History",
+  "question": "Who was the first Philippine President?",
+  "choices": ["Rizal", "Bonifacio", "Aguinaldo", "Quezon"],
+  "answer": "Aguinaldo",
+  "explanation": "Emilio Aguinaldo was the first President of the Philippines."
+},
+{
+  "id": "544",
+  "subject": "General",
+  "subtopic": "Science",
+  "question": "What organ pumps blood?",
+  "choices": ["Brain", "Lungs", "Heart", "Liver"],
+  "answer": "Heart",
+  "explanation": "The heart circulates blood throughout the body."
+},
+{
+  "id": "545",
+  "subject": "General",
+  "subtopic": "Government",
+  "question": "Who interprets the law?",
+  "choices": ["Executive", "Judicial", "Legislative", "Senate"],
+  "answer": "Judicial",
+  "explanation": "Judicial branch interprets and applies laws."
+},
+{
+  "id": "546",
+  "subject": "General",
+  "subtopic": "Economics",
+  "question": "What is money used for buying goods called?",
+  "choices": ["Capital", "Currency", "Tax", "Loan"],
+  "answer": "Currency",
+  "explanation": "Currency is the medium used for transaction."
+},
+{
+  "id": "547",
+  "subject": "General",
+  "subtopic": "Science",
+  "question": "Which is needed for photosynthesis?",
+  "choices": ["Oxygen", "Carbon dioxide", "Nitrogen", "Helium"],
+  "answer": "Carbon dioxide",
+  "explanation": "Plants use CO2 in photosynthesis."
+},
+{
+  "id": "548",
+  "subject": "General",
+  "subtopic": "Geography",
+  "question": "What is the capital of the Philippines?",
+  "choices": ["Cebu", "Manila", "Davao", "Baguio"],
+  "answer": "Manila",
+  "explanation": "Manila is the capital city."
+},
+{
+  "id": "569",
+  "subject": "General",
+  "subtopic": "Government",
+  "question": "What is the main function of the Judiciary?",
+  "choices": ["Make laws", "Implement laws", "Interpret laws", "Draft laws"],
+  "answer": "Interpret laws",
+  "explanation": "The Judiciary interprets and applies laws, ensuring they align with the Constitution."
+},
+{
+  "id": "570",
+  "subject": "General",
+  "subtopic": "Philippine Constitution",
+  "question": "Who has the power to declare martial law?",
+  "choices": ["Chief Justice", "President", "Senate", "Congress alone"],
+  "answer": "President",
+  "explanation": "The President can declare martial law under conditions stated in the Constitution."
+},
+{
+  "id": "571",
+  "subject": "General",
+  "subtopic": "Science",
+  "question": "Which organ is responsible for filtering blood?",
+  "choices": ["Heart", "Lungs", "Kidneys", "Liver"],
+  "answer": "Kidneys",
+  "explanation": "The kidneys remove waste products from the blood through filtration."
+},
+{
+  "id": "572",
+  "subject": "General",
+  "subtopic": "Economics",
+  "question": "What is inflation?",
+  "choices": ["Decrease in prices", "Increase in prices", "Stable prices", "Currency change"],
+  "answer": "Increase in prices",
+  "explanation": "Inflation refers to a general rise in prices, reducing purchasing power."
+},
+{
+  "id": "573",
+  "subject": "General",
+  "subtopic": "Geography",
+  "question": "Which ocean is the largest?",
+  "choices": ["Atlantic", "Indian", "Arctic", "Pacific"],
+  "answer": "Pacific",
+  "explanation": "The Pacific Ocean is the largest and covers the greatest surface area."
+},
+{
+  "id": "574",
+  "subject": "General",
+  "subtopic": "ICT",
+  "question": "What does URL stand for?",
+  "choices": ["Uniform Resource Locator", "Universal Resource Link", "User Reference Link", "Unified Resource Line"],
+  "answer": "Uniform Resource Locator",
+  "explanation": "A URL is the address used to access resources on the internet."
+},
+{
+  "id": "575",
+  "subject": "General",
+  "subtopic": "History",
+  "question": "What year did the Philippines gain independence from Spain?",
+  "choices": ["1896", "1898", "1901", "1946"],
+  "answer": "1898",
+  "explanation": "Philippine independence was declared on June 12, 1898."
+},
+{
+  "id": "576",
+  "subject": "General",
+  "subtopic": "Science",
+  "question": "What is the chemical symbol of Gold?",
+  "choices": ["Ag", "Au", "Gd", "Go"],
+  "answer": "Au",
+  "explanation": "Au comes from the Latin word 'Aurum' meaning gold."
+},
+{
+  "id": "577",
+  "subject": "General",
+  "subtopic": "Government",
+  "question": "Who approves the national budget?",
+  "choices": ["President only", "Judiciary", "Congress", "Ombudsman"],
+  "answer": "Congress",
+  "explanation": "Congress approves the national budget, then the President signs it into law."
+},
+{
+  "id": "578",
+  "subject": "General",
+  "subtopic": "Science",
+  "question": "Which part of the cell contains DNA?",
+  "choices": ["Cytoplasm", "Membrane", "Nucleus", "Mitochondria"],
+  "answer": "Nucleus",
+  "explanation": "The nucleus holds genetic material (DNA) and controls cell activities."
+},
+{
+  "id": "589",
+  "subject": "Numerical",
+  "subtopic": "Percentage",
+  "question": "What is the original number if 40% of it is 160?",
+  "choices": ["300", "350", "400", "450"],
+  "answer": "400",
+  "explanation": "Let x be the number. 0.40x = 160 → x = 160 ÷ 0.40 = 400."
+},
+{
+  "id": "590",
+  "subject": "Numerical",
+  "subtopic": "Work",
+  "question": "If 10 men complete a job in 12 days, how many days will 15 men take?",
+  "choices": ["6", "8", "10", "9"],
+  "answer": "8",
+  "explanation": "Work = men × days = 120. Days = 120 ÷ 15 = 8."
+},
+{
+  "id": "591",
+  "subject": "Numerical",
+  "subtopic": "Average",
+  "question": "The average of 8 numbers is 25. What is their sum?",
+  "choices": ["100", "150", "200", "250"],
+  "answer": "200",
+  "explanation": "Total = average × count = 25 × 8 = 200."
+},
+{
+  "id": "592",
+  "subject": "Numerical",
+  "subtopic": "Speed",
+  "question": "A car travels half distance at 60 km/h and half at 40 km/h. What is average speed?",
+  "choices": ["48", "50", "52", "55"],
+  "answer": "48",
+  "explanation": "Average speed when distances equal = 2ab/(a+b) → 2×60×40 / (60+40) = 48 km/h."
+},
+{
+  "id": "593",
+  "subject": "Numerical",
+  "subtopic": "Algebra",
+  "question": "Solve: 5x − 10 = 3x + 6",
+  "choices": ["6", "7", "8", "9"],
+  "answer": "8",
+  "explanation": "5x−3x = 6+10 → 2x=16 → x=8."
+},
+{
+  "id": "594",
+  "subject": "Numerical",
+  "subtopic": "Profit",
+  "question": "An item sold at 10% loss costs ₱180. What was original price?",
+  "choices": ["180", "190", "200", "210"],
+  "answer": "200",
+  "explanation": "Selling = 90% → 180 = 0.9x → x = 200."
+},
+{
+  "id": "595",
+  "subject": "Numerical",
+  "subtopic": "Fraction",
+  "question": "7/8 − 3/4 = ?",
+  "choices": ["1/8", "2/8", "3/8", "4/8"],
+  "answer": "1/8",
+  "explanation": "3/4 = 6/8 → 7/8 − 6/8 = 1/8."
+},
+{
+  "id": "596",
+  "subject": "Numerical",
+  "subtopic": "Series",
+  "question": "5, 10, 20, 35, 55, ___",
+  "choices": ["75", "80", "85", "90"],
+  "answer": "80",
+  "explanation": "Differences: +5, +10, +15, +20, +25 → 55 + 25 = 80."
+},
+{
+  "id": "597",
+  "subject": "Numerical",
+  "subtopic": "Mixture",
+  "question": "If 25% of a mixture is 50 liters, what is the total mixture?",
+  "choices": ["150", "180", "200", "220"],
+  "answer": "200",
+  "explanation": "0.25x = 50 → x = 50 ÷ 0.25 = 200."
+},
+{
+  "id": "598",
+  "subject": "Numerical",
+  "subtopic": "Distance",
+  "question": "A 150m train crosses a 250m bridge. Total distance traveled?",
+  "choices": ["300", "350", "400", "450"],
+  "answer": "400",
+  "explanation": "Total distance = length of train + bridge = 150 + 250 = 400m."
+},
+{
+  "id": "629",
+  "subject": "General",
+  "subtopic": "Constitution",
+  "question": "Which principle ensures that no branch of government becomes too powerful?",
+  "choices": ["Separation of powers", "Checks and balances", "Judicial review", "Federalism"],
+  "answer": "Checks and balances",
+  "explanation": "Checks and balances allow each branch of government to limit the powers of the others, preventing abuse of authority."
+},
+{
+  "id": "630",
+  "subject": "General",
+  "subtopic": "Law",
+  "question": "What is an ex post facto law?",
+  "choices": ["A law applied equally", "A retroactive criminal law", "A tax law", "A civil regulation"],
+  "answer": "A retroactive criminal law",
+  "explanation": "An ex post facto law punishes an act that was not illegal at the time it was committed, which is prohibited by the Constitution."
+},
+{
+  "id": "631",
+  "subject": "General",
+  "subtopic": "Science",
+  "question": "Which principle explains why objects float in water?",
+  "choices": ["Newton's Law", "Ohm’s Law", "Archimedes’ Principle", "Boyle’s Law"],
+  "answer": "Archimedes’ Principle",
+  "explanation": "Archimedes’ Principle states that an object floats when the buoyant force is equal to the weight of the displaced fluid."
+},
+{
+  "id": "632",
+  "subject": "General",
+  "subtopic": "Economics",
+  "question": "What is the fundamental problem of economics?",
+  "choices": ["Inflation", "Scarcity", "Unemployment", "Trade imbalance"],
+  "answer": "Scarcity",
+  "explanation": "Scarcity refers to limited resources relative to unlimited wants, forcing choices in allocation."
+},
+{
+  "id": "633",
+  "subject": "General",
+  "subtopic": "ICT",
+  "question": "What is the main purpose of a firewall?",
+  "choices": ["Store files", "Block unauthorized access", "Increase speed", "Compress data"],
+  "answer": "Block unauthorized access",
+  "explanation": "A firewall protects a network by controlling incoming and outgoing traffic based on security rules."
+},
+{
+  "id": "634",
+  "subject": "General",
+  "subtopic": "Government",
+  "question": "What does sovereignty mean?",
+  "choices": ["Military power", "Economic strength", "Supreme authority", "Judicial independence"],
+  "answer": "Supreme authority",
+  "explanation": "Sovereignty refers to the ultimate power of a state to govern itself without external interference."
+},
+{
+  "id": "635",
+  "subject": "General",
+  "subtopic": "Science",
+  "question": "What type of energy is stored in food?",
+  "choices": ["Thermal", "Kinetic", "Chemical", "Electrical"],
+  "answer": "Chemical",
+  "explanation": "Food stores chemical energy, which is converted into usable energy by the body."
+},
+{
+  "id": "636",
+  "subject": "General",
+  "subtopic": "History",
+  "question": "What administrative system did Spain use to manage colonies in the Philippines?",
+  "choices": ["Barangay System", "Encomienda System", "Feudal System", "Democratic System"],
+  "answer": "Encomienda System",
+  "explanation": "The Encomienda System allowed Spanish officials to collect tribute and govern local areas."
+},
+{
+  "id": "637",
+  "subject": "General",
+  "subtopic": "Law",
+  "question": "What is the essence of due process?",
+  "choices": ["Quick justice", "Fair procedure", "Punishment", "Judgment"],
+  "answer": "Fair procedure",
+  "explanation": "Due process ensures fairness in legal proceedings before a person is deprived of life, liberty, or property."
+},
+{
+  "id": "638",
+  "subject": "General",
+  "subtopic": "Geography",
+  "question": "What primarily causes ocean tides?",
+  "choices": ["Wind", "Earth rotation", "Sunlight", "Moon’s gravity"],
+  "answer": "Moon’s gravity",
+  "explanation": "The gravitational pull of the moon causes the rise and fall of ocean tides."
+},
+{
+  "id": "659",
+  "subject": "General",
+  "subtopic": "Law",
+  "question": "What is the presumption of innocence?",
+  "choices": ["Guilt first", "Neutral trial", "Innocent until proven guilty", "Immediate conviction"],
+  "answer": "Innocent until proven guilty",
+  "explanation": "This principle ensures a person is considered innocent unless proven guilty in court."
+},
+{
+  "id": "660",
+  "subject": "General",
+  "subtopic": "Government",
+  "question": "What ensures accountability in government?",
+  "choices": ["Power", "Transparency", "Authority", "Control"],
+  "answer": "Transparency",
+  "explanation": "Transparency allows citizens to monitor government actions."
+},
+{
+  "id": "661",
+  "subject": "General",
+  "subtopic": "Science",
+  "question": "Which law governs force, mass, and acceleration?",
+  "choices": ["Newton’s 1st", "Newton’s 2nd", "Newton’s 3rd", "Ohm’s law"],
+  "answer": "Newton’s 2nd",
+  "explanation": "F = ma describes the relationship between force, mass, and acceleration."
+},
+{
+  "id": "662",
+  "subject": "General",
+  "subtopic": "Economics",
+  "question": "Opportunity cost is:",
+  "choices": ["Money spent", "Next best alternative", "Profit", "Loss"],
+  "answer": "Next best alternative",
+  "explanation": "It refers to the benefit lost when choosing one option over another."
+},
+{
+  "id": "663",
+  "subject": "General",
+  "subtopic": "ICT",
+  "question": "What does RAM do?",
+  "choices": ["Permanent storage", "Temporary storage", "Processing", "Networking"],
+  "answer": "Temporary storage",
+  "explanation": "RAM temporarily holds data for active tasks."
+},
+{
+  "id": "664",
+  "subject": "General",
+  "subtopic": "Science",
+  "question": "Which organ controls coordination?",
+  "choices": ["Brain", "Heart", "Kidney", "Lungs"],
+  "answer": "Brain",
+  "explanation": "The brain controls voluntary and involuntary functions."
+},
+{
+  "id": "665",
+  "subject": "General",
+  "subtopic": "History",
+  "question": "EDSA Revolution led to:",
+  "choices": ["War", "Dictatorship", "Restoration of democracy", "Colonization"],
+  "answer": "Restoration of democracy",
+  "explanation": "EDSA 1986 ended dictatorship and restored democratic rule."
+},
+{
+  "id": "666",
+  "subject": "General",
+  "subtopic": "Geography",
+  "question": "What is latitude?",
+  "choices": ["Height", "Distance east-west", "Distance north-south", "Elevation"],
+  "answer": "Distance north-south",
+  "explanation": "Latitude measures position relative to the equator."
+},
+{
+  "id": "667",
+  "subject": "General",
+  "subtopic": "Law",
+  "question": "What right protects against self-incrimination?",
+  "choices": ["Speech", "Privacy", "Silence", "Assembly"],
+  "answer": "Silence",
+  "explanation": "Right to remain silent prevents self-incrimination."
+},
+{
+  "id": "668",
+  "subject": "General",
+  "subtopic": "Science",
+  "question": "What is inertia?",
+  "choices": ["Speed", "Resistance to motion change", "Force", "Acceleration"],
+  "answer": "Resistance to motion change",
+  "explanation": "Inertia is a body's resistance to a change in its state of motion."
+},
+{
+  "id": "689",
+  "subject": "General",
+  "subtopic": "Government",
+  "question": "What is the main purpose of separation of powers?",
+  "choices": ["Speed up laws", "Avoid abuse of power", "Increase taxes", "Centralize authority"],
+  "answer": "Avoid abuse of power",
+  "explanation": "Separation of powers divides government authority to prevent concentration and abuse."
+},
+{
+  "id": "690",
+  "subject": "General",
+  "subtopic": "Law",
+  "question": "Double jeopardy means:",
+  "choices": ["Two trials allowed", "Cannot be tried twice for same offense", "Immediate conviction", "Two different crimes"],
+  "answer": "Cannot be tried twice for same offense",
+  "explanation": "This protects individuals from being prosecuted more than once for the same crime."
+},
+{
+  "id": "691",
+  "subject": "General",
+  "subtopic": "Science",
+  "question": "What is the function of red blood cells?",
+  "choices": ["Fight disease", "Carry oxygen", "Clot blood", "Digest nutrients"],
+  "answer": "Carry oxygen",
+  "explanation": "Red blood cells transport oxygen through hemoglobin."
+},
+{
+  "id": "692",
+  "subject": "General",
+  "subtopic": "Economics",
+  "question": "Demand refers to:",
+  "choices": ["Supply of goods", "Desire with ability to pay", "Price control", "Production level"],
+  "answer": "Desire with ability to pay",
+  "explanation": "Demand includes both willingness and purchasing power."
+},
+{
+  "id": "693",
+  "subject": "General",
+  "subtopic": "ICT",
+  "question": "What does an operating system do?",
+  "choices": ["Compile code", "Manage hardware and software", "Store data", "Connect internet"],
+  "answer": "Manage hardware and software",
+  "explanation": "The OS acts as an interface managing system resources."
+},
+{
+  "id": "694",
+  "subject": "General",
+  "subtopic": "History",
+  "question": "What ended Spanish rule in the Philippines?",
+  "choices": ["EDSA", "Treaty of Paris", "WWII", "Katipunan"],
+  "answer": "Treaty of Paris",
+  "explanation": "Spain ceded the Philippines to the U.S. via the Treaty of Paris (1898)."
+},
+{
+  "id": "695",
+  "subject": "General",
+  "subtopic": "Science",
+  "question": "Which organ detoxifies chemicals?",
+  "choices": ["Kidney", "Heart", "Liver", "Lungs"],
+  "answer": "Liver",
+  "explanation": "The liver processes toxins and metabolic waste."
+},
+{
+  "id": "696",
+  "subject": "General",
+  "subtopic": "Geography",
+  "question": "What is longitude?",
+  "choices": ["North-south distance", "East-west distance", "Elevation", "Depth"],
+  "answer": "East-west distance",
+  "explanation": "Longitude measures east-west position from the Prime Meridian."
+},
+{
+  "id": "697",
+  "subject": "General",
+  "subtopic": "Government",
+  "question": "Who has veto power?",
+  "choices": ["Congress", "Supreme Court", "President", "Senate"],
+  "answer": "President",
+  "explanation": "The President can reject bills passed by Congress."
+},
+{
+  "id": "698",
+  "subject": "General",
+  "subtopic": "Law",
+  "question": "What is judicial review?",
+  "choices": ["Law creation", "Law enforcement", "Law interpretation", "Law invalidation"],
+  "answer": "Law interpretation",
+  "explanation": "Courts review laws to determine constitutionality."
+},
+{
+  "id": "689",
+  "subject": "General",
+  "subtopic": "Government",
+  "question": "What is the main purpose of separation of powers?",
+  "choices": ["Speed up laws", "Avoid abuse of power", "Increase taxes", "Centralize authority"],
+  "answer": "Avoid abuse of power",
+  "explanation": "Separation of powers divides government authority to prevent concentration and abuse."
+},
+{
+  "id": "690",
+  "subject": "General",
+  "subtopic": "Law",
+  "question": "Double jeopardy means:",
+  "choices": ["Two trials allowed", "Cannot be tried twice for same offense", "Immediate conviction", "Two different crimes"],
+  "answer": "Cannot be tried twice for same offense",
+  "explanation": "This protects individuals from being prosecuted more than once for the same crime."
+},
+{
+  "id": "691",
+  "subject": "General",
+  "subtopic": "Science",
+  "question": "What is the function of red blood cells?",
+  "choices": ["Fight disease", "Carry oxygen", "Clot blood", "Digest nutrients"],
+  "answer": "Carry oxygen",
+  "explanation": "Red blood cells transport oxygen through hemoglobin."
+},
+{
+  "id": "692",
+  "subject": "General",
+  "subtopic": "Economics",
+  "question": "Demand refers to:",
+  "choices": ["Supply of goods", "Desire with ability to pay", "Price control", "Production level"],
+  "answer": "Desire with ability to pay",
+  "explanation": "Demand includes both willingness and purchasing power."
+},
+{
+  "id": "693",
+  "subject": "General",
+  "subtopic": "ICT",
+  "question": "What does an operating system do?",
+  "choices": ["Compile code", "Manage hardware and software", "Store data", "Connect internet"],
+  "answer": "Manage hardware and software",
+  "explanation": "The OS acts as an interface managing system resources."
+},
+{
+  "id": "694",
+  "subject": "General",
+  "subtopic": "History",
+  "question": "What ended Spanish rule in the Philippines?",
+  "choices": ["EDSA", "Treaty of Paris", "WWII", "Katipunan"],
+  "answer": "Treaty of Paris",
+  "explanation": "Spain ceded the Philippines to the U.S. via the Treaty of Paris (1898)."
+},
+{
+  "id": "695",
+  "subject": "General",
+  "subtopic": "Science",
+  "question": "Which organ detoxifies chemicals?",
+  "choices": ["Kidney", "Heart", "Liver", "Lungs"],
+  "answer": "Liver",
+  "explanation": "The liver processes toxins and metabolic waste."
+},
+{
+  "id": "696",
+  "subject": "General",
+  "subtopic": "Geography",
+  "question": "What is longitude?",
+  "choices": ["North-south distance", "East-west distance", "Elevation", "Depth"],
+  "answer": "East-west distance",
+  "explanation": "Longitude measures east-west position from the Prime Meridian."
+},
+{
+  "id": "697",
+  "subject": "General",
+  "subtopic": "Government",
+  "question": "Who has veto power?",
+  "choices": ["Congress", "Supreme Court", "President", "Senate"],
+  "answer": "President",
+  "explanation": "The President can reject bills passed by Congress."
+},
+{
+  "id": "698",
+  "subject": "General",
+  "subtopic": "Law",
+  "question": "What is judicial review?",
+  "choices": ["Law creation", "Law enforcement", "Law interpretation", "Law invalidation"],
+  "answer": "Law interpretation",
+  "explanation": "Courts review laws to determine constitutionality."
+},
+{
+  "id": "719",
+  "subject": "General",
+  "subtopic": "Law",
+  "question": "What is the purpose of the Bill of Rights?",
+  "choices": ["Define taxes", "Protect freedoms", "Create laws", "Elect officials"],
+  "answer": "Protect freedoms",
+  "explanation": "The Bill of Rights guarantees fundamental civil liberties and protects citizens from government abuse."
+},
+{
+  "id": "720",
+  "subject": "General",
+  "subtopic": "Government",
+  "question": "Which branch audits government funds?",
+  "choices": ["COA", "DOJ", "SC", "Congress"],
+  "answer": "COA",
+  "explanation": "The Commission on Audit ensures proper use of public funds."
+},
+{
+  "id": "721",
+  "subject": "General",
+  "subtopic": "Science",
+  "question": "Which vitamin is produced by sunlight exposure?",
+  "choices": ["A", "B", "C", "D"],
+  "answer": "D",
+  "explanation": "Vitamin D is synthesized when skin is exposed to sunlight."
+},
+{
+  "id": "722",
+  "subject": "General",
+  "subtopic": "Economics",
+  "question": "Supply increases when:",
+  "choices": ["Price rises", "Demand falls", "Cost rises", "Taxes increase"],
+  "answer": "Price rises",
+  "explanation": "Higher prices encourage producers to increase supply."
+},
+{
+  "id": "723",
+  "subject": "General",
+  "subtopic": "ICT",
+  "question": "What is a database?",
+  "choices": ["Program", "Data storage system", "Network", "Software tool"],
+  "answer": "Data storage system",
+  "explanation": "A database is used to organize, store, and manage data efficiently."
+},
+{
+  "id": "724",
+  "subject": "General",
+  "subtopic": "History",
+  "question": "Who led the Philippine Revolution?",
+  "choices": ["Rizal", "Bonifacio", "Aguinaldo", "Luna"],
+  "answer": "Bonifacio",
+  "explanation": "Andres Bonifacio led the revolutionary movement through the Katipunan."
+},
+{
+  "id": "725",
+  "subject": "General",
+  "subtopic": "Science",
+  "question": "Which gas is most abundant in Earth's atmosphere?",
+  "choices": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+  "answer": "Nitrogen",
+  "explanation": "Nitrogen makes up about 78 percent of the Earth's atmosphere."
+},
+{
+  "id": "726",
+  "subject": "General",
+  "subtopic": "Geography",
+  "question": "What is the equator?",
+  "choices": ["Longitude line", "Latitude line", "Prime meridian", "Axis"],
+  "answer": "Latitude line",
+  "explanation": "The equator is the main line of latitude dividing the Earth into northern and southern hemispheres."
+},
+{
+  "id": "727",
+  "subject": "General",
+  "subtopic": "Law",
+  "question": "Writ of habeas corpus protects:",
+  "choices": ["Property", "Freedom from illegal detention", "Speech", "Religion"],
+  "answer": "Freedom from illegal detention",
+  "explanation": "It ensures that a person cannot be detained without legal justification."
+},
+{
+  "id": "728",
+  "subject": "General",
+  "subtopic": "Government",
+  "question": "Who can declare martial law in the Philippines?",
+  "choices": ["Senate", "President", "Congress", "Court"],
+  "answer": "President",
+  "explanation": "The President has the authority to declare martial law under conditions set by the Constitution."
+}
+
 ]
