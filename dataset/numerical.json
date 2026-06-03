@@ -1,0 +1,975 @@
+[
+  {
+    "id": "1",
+    "subject": "Numerical",
+    "subtopic": "Rates",
+    "question": "If Jonalyn can type a page in p minutes, what piece of the page can she do in 5 minutes?",
+    "choices": [
+      "5/p",
+      "p - 5",
+      "p + 5",
+      "p/5"
+    ],
+    "answer": "5/p",
+    "explanation": "The correct answer is '5/p' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "2",
+    "subject": "Numerical",
+    "subtopic": "Work",
+    "question": "If Nonoy can scrub a house in 4 hours and Nene in 6 hours, how long together?",
+    "choices": [
+      "2h 24m",
+      "3h 12m",
+      "3h 44m",
+      "4h 10m"
+    ],
+    "answer": "2h 24m",
+    "explanation": "The correct answer is '2h 24m' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "5",
+    "subject": "Numerical",
+    "subtopic": "Algebra",
+    "question": "Solve: 2A/3 = 8 + 4A",
+    "choices": [
+      "-2.4",
+      "2.4",
+      "1.3",
+      "-1.3"
+    ],
+    "answer": "-2.4",
+    "explanation": "The correct answer is '-2.4' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "6",
+    "subject": "Numerical",
+    "subtopic": "Age Problem",
+    "question": "Cristina is 6 years older than Susan. Roberto is 5 years older than Cristina. Total is 41. How old is Susan?",
+    "choices": [
+      "8",
+      "10",
+      "14",
+      "19"
+    ],
+    "answer": "8",
+    "explanation": "The correct answer is '8' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "7",
+    "subject": "Numerical",
+    "subtopic": "Interest",
+    "question": "\u20b1300,000 at 6% simple interest for 5 years. Interest?",
+    "choices": [
+      "50000",
+      "60000",
+      "70000",
+      "90000"
+    ],
+    "answer": "90000",
+    "explanation": "The correct answer is '90000' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "8",
+    "subject": "Numerical",
+    "subtopic": "Profit",
+    "question": "Jose sold a statue for \u20b127,500 at 35% profit. Cost?",
+    "choices": [
+      "20000",
+      "30000",
+      "40000",
+      "50000"
+    ],
+    "answer": "20000",
+    "explanation": "The correct answer is '20000' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "9",
+    "subject": "Numerical",
+    "subtopic": "Percentage",
+    "question": "Hotel tax is 10%. Room cost \u20b12,500. Tax?",
+    "choices": [
+      "100",
+      "150",
+      "200",
+      "250"
+    ],
+    "answer": "250",
+    "explanation": "The correct answer is '250' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "431",
+    "subject": "Numerical",
+    "subtopic": "Series",
+    "question": "(2\u00d71\u00f72), (4\u00f71\u00d72), (6\u00d71\u00f72), _____",
+    "choices": [
+      "8",
+      "16",
+      "4",
+      "32"
+    ],
+    "answer": "16",
+    "explanation": "The correct answer is '16' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "432",
+    "subject": "Numerical",
+    "subtopic": "Series",
+    "question": "(15-8+3), 8, (4\u00f72\u00d73), ____",
+    "choices": [
+      "4",
+      "3",
+      "8",
+      "2"
+    ],
+    "answer": "4",
+    "explanation": "The correct answer is '4' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "433",
+    "subject": "Numerical",
+    "subtopic": "Percentage",
+    "question": "Simplify: 33 1/3 % of 48 + 12 \u00bd % of 96 - 44 4/9 % of 27",
+    "choices": [
+      "12",
+      "16",
+      "24",
+      "48"
+    ],
+    "answer": "16",
+    "explanation": "The correct answer is '16' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "434",
+    "subject": "Numerical",
+    "subtopic": "Percentage",
+    "question": "12 is 125% of what number?",
+    "choices": [
+      "9.6",
+      "8",
+      "9",
+      "10",
+      "8.6"
+    ],
+    "answer": "9.6",
+    "explanation": "The correct answer is '9.6' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "435",
+    "subject": "Numerical",
+    "subtopic": "Percentage",
+    "question": "What percent of 16 is 40?",
+    "choices": [
+      "2.5%",
+      "2500%",
+      "1/4",
+      "250%",
+      "25%"
+    ],
+    "answer": "250%",
+    "explanation": "This question requires interpreting data or performing calculations. The correct answer '250%' comes from properly analyzing the given values."
+  },
+  {
+    "id": "436",
+    "subject": "Numerical",
+    "subtopic": "Fractions",
+    "question": "1 1/4 subtracted from its reciprocal is?",
+    "choices": [
+      "-9/20",
+      "0.45",
+      "2.25",
+      "9/20",
+      "-1/5"
+    ],
+    "answer": "-9/20",
+    "explanation": "The correct answer is '-9/20' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "437",
+    "subject": "Numerical",
+    "subtopic": "Ratio",
+    "question": "What is the ratio of 1/4 to 3/5?",
+    "choices": [
+      "1:3",
+      "3:20",
+      "5:12",
+      "3:4",
+      "5:4"
+    ],
+    "answer": "5:12",
+    "explanation": "This question requires interpreting data or performing calculations. The correct answer '5:12' comes from properly analyzing the given values."
+  },
+  {
+    "id": "438",
+    "subject": "Numerical",
+    "subtopic": "Radicals",
+    "question": "What is the difference between \u221a150 and \u221a54?",
+    "choices": [
+      "3\u221a6",
+      "16\u221a6",
+      "\u221a96",
+      "6\u221a2",
+      "2\u221a6"
+    ],
+    "answer": "2\u221a6",
+    "explanation": "This question requires interpreting data or performing calculations. The correct answer '2\u221a6' comes from properly analyzing the given values."
+  },
+  {
+    "id": "439",
+    "subject": "Numerical",
+    "subtopic": "Distance",
+    "question": "A car travels 2\u00bd hours at 132 5/8 km/h. What distance does it cover?",
+    "choices": [
+      "264 5/16 km",
+      "331 9/16 km",
+      "330 5/16 km",
+      "135 1/8 km"
+    ],
+    "answer": "331 9/16 km",
+    "explanation": "The correct answer is '331 9/16 km' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "440",
+    "subject": "Numerical",
+    "subtopic": "Arithmetic",
+    "question": "990 - (-2)^2 + (-3^2) - (-4)^2 = ?",
+    "choices": [
+      "-28",
+      "-10",
+      "-9",
+      "30",
+      "None"
+    ],
+    "answer": "-28",
+    "explanation": "The correct answer is '-28' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "441",
+    "subject": "Numerical",
+    "subtopic": "Exponents",
+    "question": "(100)^0 + (-4^2) - 2^2 = ?",
+    "choices": [
+      "19",
+      "-19",
+      "13",
+      "21",
+      "None"
+    ],
+    "answer": "-19",
+    "explanation": "The correct answer is '-19' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "442",
+    "subject": "Numerical",
+    "subtopic": "Percentage",
+    "question": "A one-fourth percent of a number is 25. What is the number?",
+    "choices": [
+      "100",
+      "1000",
+      "10000",
+      "100000"
+    ],
+    "answer": "10000",
+    "explanation": "This question requires interpreting data or performing calculations. The correct answer '10000' comes from properly analyzing the given values."
+  },
+  {
+    "id": "443",
+    "subject": "Numerical",
+    "subtopic": "Average",
+    "question": "A grocery store sales for 5 months total \u20b16435, \u20b16927, \u20b16855, \u20b17230, \u20b16562. What is needed in the 6th month to average \u20b16500?",
+    "choices": [
+      "4991",
+      "5991",
+      "6001",
+      "6991"
+    ],
+    "answer": "4991",
+    "explanation": "This question requires interpreting data or performing calculations. The correct answer '4991' comes from properly analyzing the given values."
+  },
+  {
+    "id": "444",
+    "subject": "Numerical",
+    "subtopic": "Statistics",
+    "question": "The mean, median and mode of 9 numbers are equal. Given 8 numbers, what is the 9th?",
+    "choices": [
+      "14",
+      "12",
+      "15",
+      "18",
+      "11"
+    ],
+    "answer": "15",
+    "explanation": "The correct answer is '15' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "445",
+    "subject": "Numerical",
+    "subtopic": "Statistics",
+    "question": "The mean, median and mode of 5 numbers are equal. Given 4 numbers, what is the 5th?",
+    "choices": [
+      "24",
+      "28",
+      "29",
+      "25",
+      "18"
+    ],
+    "answer": "24",
+    "explanation": "The correct answer is '24' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "446",
+    "subject": "Numerical",
+    "subtopic": "Percentage",
+    "question": "90 increased by what percent of itself gives 180?",
+    "choices": [
+      "50%",
+      "90%",
+      "150%",
+      "100%",
+      "200%"
+    ],
+    "answer": "100%",
+    "explanation": "This question requires interpreting data or performing calculations. The correct answer '100%' comes from properly analyzing the given values."
+  },
+  {
+    "id": "447",
+    "subject": "Numerical",
+    "subtopic": "Percentage",
+    "question": "If 500 represents 25% of a class, how many students are there?",
+    "choices": [
+      "2000",
+      "3000",
+      "5000",
+      "10000",
+      "20000"
+    ],
+    "answer": "2000",
+    "explanation": "The correct answer is '2000' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "448",
+    "subject": "Numerical",
+    "subtopic": "Percentage",
+    "question": "Out of 8000 applicants, 1600 failed to take the test. What percent took the test?",
+    "choices": [
+      "20%",
+      "30%",
+      "40%",
+      "80%"
+    ],
+    "answer": "80%",
+    "explanation": "This question requires interpreting data or performing calculations. The correct answer '80%' comes from properly analyzing the given values."
+  },
+  {
+    "id": "449",
+    "subject": "Numerical",
+    "subtopic": "Algebra",
+    "question": "Twice a number increased by 8 is 40. What is the number?",
+    "choices": [
+      "8",
+      "16",
+      "24",
+      "32",
+      "None"
+    ],
+    "answer": "16",
+    "explanation": "The correct answer is '16' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "450",
+    "subject": "Numerical",
+    "subtopic": "Age Problem",
+    "question": "Father was 38 when daughter was born. Mother was 36 when son (4 years younger) was born. Age difference of parents?",
+    "choices": [
+      "2 years",
+      "4 years",
+      "6 years",
+      "8 years"
+    ],
+    "answer": "6 years",
+    "explanation": "This question requires interpreting data or performing calculations. The correct answer '6 years' comes from properly analyzing the given values."
+  },
+  {
+    "id": "451",
+    "subject": "Numerical",
+    "subtopic": "Series",
+    "question": "Number Series: 100%, 2, 15/5, 4, ____?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "5",
+    "explanation": "The correct answer is '5' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "452",
+    "subject": "Numerical",
+    "subtopic": "Series",
+    "question": "Number Series: 1/6, 1/3, 1/2, 2/3, ____?",
+    "choices": [
+      "2/6",
+      "2/7",
+      "3/5",
+      "5/6"
+    ],
+    "answer": "5/6",
+    "explanation": "The correct answer is '5/6' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "453",
+    "subject": "Numerical",
+    "subtopic": "Series",
+    "question": "Number Series: 250%, 50%, 100%, 20%, 40%, ____?",
+    "choices": [
+      "8%",
+      "10%",
+      "5%",
+      "15%"
+    ],
+    "answer": "8%",
+    "explanation": "The correct answer is '8%' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "454",
+    "subject": "Numerical",
+    "subtopic": "Series",
+    "question": "Number Series: 0.1, 30%, 1/2, 0.7, 90%, ____?",
+    "choices": [
+      "1 1/10",
+      "100%",
+      "7/9",
+      "1.4"
+    ],
+    "answer": "1 1/10",
+    "explanation": "The correct answer is '1 1/10' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "455",
+    "subject": "Numerical",
+    "subtopic": "Series",
+    "question": "Number Series: 5, 6, 9, 15, ____, 40",
+    "choices": [
+      "21",
+      "27",
+      "25",
+      "33"
+    ],
+    "answer": "25",
+    "explanation": "The correct answer is '25' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "456",
+    "subject": "Numerical",
+    "subtopic": "Series",
+    "question": "Number Series: 5, 16, 49, 104, ____",
+    "choices": [
+      "170",
+      "148",
+      "115",
+      "181"
+    ],
+    "answer": "181",
+    "explanation": "The correct answer is '181' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "457",
+    "subject": "Numerical",
+    "subtopic": "Series",
+    "question": "Number Series: 225, 336, 447, ____, 669, 7710",
+    "choices": [
+      "114",
+      "991",
+      "558",
+      "338"
+    ],
+    "answer": "558",
+    "explanation": "The correct answer is '558' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "458",
+    "subject": "Numerical",
+    "subtopic": "Series",
+    "question": "Number Series: 563, 647, 479, 815, ____",
+    "choices": [
+      "672",
+      "386",
+      "279",
+      "143"
+    ],
+    "answer": "143",
+    "explanation": "The correct answer is '143' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "459",
+    "subject": "Numerical",
+    "subtopic": "Series",
+    "question": "Number Series: 3, 12, 27, 48, 75, 108, ____",
+    "choices": [
+      "183",
+      "192",
+      "162",
+      "147"
+    ],
+    "answer": "147",
+    "explanation": "The correct answer is '147' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "460",
+    "subject": "Numerical",
+    "subtopic": "Series",
+    "question": "Number Series: 0.5, 0.55, 0.65, 0.8, ____",
+    "choices": [
+      "0.82",
+      "0.9",
+      "0.95",
+      "1"
+    ],
+    "answer": "1",
+    "explanation": "The correct answer is '1' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "461",
+    "subject": "Numerical",
+    "subtopic": "Fractions",
+    "question": "1/2 \u00f7 1/4 = ___",
+    "choices": [
+      "Less than 1",
+      "More than 1",
+      "Equal to 1",
+      "Undefined",
+      "None of the above"
+    ],
+    "answer": "More than 1",
+    "explanation": "The correct answer is 'More than 1' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "462",
+    "subject": "Numerical",
+    "subtopic": "Fractions",
+    "question": "If Kardo is feeding his buddy 1/2 cup of dog food but uses 1/10 of a cup, how many scoop will he need to feed his dog?",
+    "choices": [
+      "1/12 th scoop",
+      "1/20 th scoop",
+      "5 scoops",
+      "3 scoops"
+    ],
+    "answer": "5 scoops",
+    "explanation": "The correct answer is '5 scoops' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "463",
+    "subject": "Numerical",
+    "subtopic": "Pattern",
+    "question": "If 1 \u00d7 10 = 9, 2 \u00d7 10 = 18, 3 \u00d7 10 = 27, then what is 8 \u00d7 10 = ?",
+    "choices": [
+      "36",
+      "72",
+      "78",
+      "52"
+    ],
+    "answer": "72",
+    "explanation": "The correct answer is '72' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "464",
+    "subject": "Numerical",
+    "subtopic": "Analogy",
+    "question": "83 : 25 :: 92 : ___?",
+    "choices": [
+      "44",
+      "49",
+      "40",
+      "63"
+    ],
+    "answer": "49",
+    "explanation": "This is an analogy question. The relationship between the first pair is applied to the second pair. '49' correctly maintains that relationship."
+  },
+  {
+    "id": "465",
+    "subject": "Numerical",
+    "subtopic": "Analogy",
+    "question": "72 : 18 :: 56 : ___?",
+    "choices": [
+      "24",
+      "22",
+      "20",
+      "16"
+    ],
+    "answer": "22",
+    "explanation": "This is an analogy question. The relationship between the first pair is applied to the second pair. '22' correctly maintains that relationship."
+  },
+  {
+    "id": "466",
+    "subject": "Numerical",
+    "subtopic": "Analogy",
+    "question": "2 : 12 :: 8 : ___?",
+    "choices": [
+      "18",
+      "128",
+      "396",
+      "576"
+    ],
+    "answer": "18",
+    "explanation": "This is an analogy question. The relationship between the first pair is applied to the second pair. '18' correctly maintains that relationship."
+  },
+  {
+    "id": "467",
+    "subject": "Numerical",
+    "subtopic": "Analogy",
+    "question": "12 : 72 :: 8 : ___?",
+    "choices": [
+      "0",
+      "32",
+      "36",
+      "38"
+    ],
+    "answer": "32",
+    "explanation": "This is an analogy question. The relationship between the first pair is applied to the second pair. '32' correctly maintains that relationship."
+  },
+  {
+    "id": "468",
+    "subject": "Numerical",
+    "subtopic": "Order of Operations",
+    "question": "PEMDAS: 10\u00f72\u00d75-(12\u00f73\u00d74)+1 = __?",
+    "choices": [
+      "10",
+      "1",
+      "-1",
+      "23",
+      "None of the above"
+    ],
+    "answer": "10",
+    "explanation": "The correct answer is '10' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "469",
+    "subject": "Numerical",
+    "subtopic": "Series / Sum",
+    "question": "Sum of all odd numbers between 60 to 120.",
+    "choices": [
+      "3775",
+      "3050",
+      "4000",
+      "2700"
+    ],
+    "answer": "2700",
+    "explanation": "The correct answer is '2700' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "470",
+    "subject": "Numerical",
+    "subtopic": "Distance",
+    "question": "John walks from his house to the police station. He walks at 2 meters/second for 3 minutes, then runs at 4 meters/second for 1 minute. What is the distance from his house to the police station?",
+    "choices": [
+      "10 m",
+      "60 m",
+      "105 m",
+      "400 m",
+      "600 m"
+    ],
+    "answer": "600 m",
+    "explanation": "The correct answer is '600 m' based on applying the appropriate reasoning method."
+  },
+  {
+  "id": "471",
+  "subject": "Numerical Ability",
+  "subtopic": "Word Problem",
+  "question": "Bella owns a vegetable stand where she sells red and green tomatoes. She sells both types of tomatoes for P72.50 per kilo. One of her customers bought 3.5 kilos of red tomatoes and 6.75 kilos of green tomatoes. How much money did Bella earn in all from that sale?",
+  "choices": [
+    "P743.125",
+    "P734.215",
+    "P743.521",
+    "P734.512",
+    "P743.152"
+  ],
+  "answer": "P743.125",
+  "explanation": "Total kilos = 3.5 + 6.75 = 10.25 kg. Multiply by price per kilo: 10.25 × 72.50 = 743.125."
+},
+{
+  "id": "472",
+  "subject": "Numerical Ability",
+  "subtopic": "Fractions",
+  "question": "Rowena has 3 1/2 cups of strawberries. She uses 1/4 cups of strawberries to make a breakfast smoothie. Rowena then uses 1/2 of the remaining strawberries to make strawberry pancakes. How many cups of strawberries did Rowena use for the pancakes?",
+  "choices": [
+    "2 3/4 cups",
+    "3 2/9 cups",
+    "1 5/8 cups",
+    "1 6/8 cups",
+    "3 5/9 cups"
+  ],
+  "answer": "1 5/8 cups",
+  "explanation": "Start with 3 1/2 cups = 3.5 cups. Subtract 1/4 cup used for the smoothie: 3.5 − 0.25 = 3.25 cups remain. She uses half of the remainder for pancakes: 3.25 ÷ 2 = 1.625 cups, which is 1 5/8 cups."
+},
+{
+  "id": "473",
+  "subject": "Numerical Ability",
+  "subtopic": "Unit Rate",
+  "question": "Leonard helped make a wizard costume for a school play. He used 5.75 feet of ribbon for the wizard’s staff. Leonard then used 11.75 feet of the same ribbon to decorate the wizard’s robe. If Leonard used P10.50 of ribbon in all, how much did the ribbon cost per foot?",
+  "choices": [
+    "P0.45 per foot",
+    "P0.60 per foot",
+    "P0.85 per foot",
+    "P1.00 per foot",
+    "P1.25 per foot"
+  ],
+  "answer": "P0.60 per foot",
+  "explanation": "Total ribbon used = 5.75 + 11.75 = 17.5 feet. Divide total cost by total feet: 10.50 ÷ 17.5 = 0.60. So the ribbon cost P0.60 per foot."
+},
+{
+  "id": "474",
+  "subject": "Numerical Ability",
+  "subtopic": "Division",
+  "question": "On Monday, 356 students went on a field trip to Luneta Park. All 6 buses were filled and 8 students had to travel in a van. How many students were on each bus?",
+  "choices": [
+    "38 students",
+    "46 students",
+    "54 students",
+    "58 students",
+    "62 students"
+  ],
+  "answer": "58 students",
+  "explanation": "If 8 students were in a van, then the students on the buses were 356 − 8 = 348. Divide 348 by 6 buses: 348 ÷ 6 = 58."
+},
+{
+  "id": "475",
+  "subject": "Numerical Ability",
+  "subtopic": "Algebraic Word Problem",
+  "question": "Michael bought 4 new Yugi-Oh! trading cards to add to his collection. The next day, his dog ate half of his trading cards. There are only 38 cards left. How many Yugi-Oh! cards did Michael start with?",
+  "choices": [
+    "110 cards",
+    "102 cards",
+    "97 cards",
+    "85 cards",
+    "72 cards"
+  ],
+  "answer": "72 cards",
+  "explanation": "Let x be the number of cards Michael originally had. After buying 4, he had x + 4 cards. Since half were eaten and 38 remained, the total before being eaten was 76. So x + 4 = 76 → x = 72."
+},
+{
+  "id": "476",
+  "subject": "Numerical Ability",
+  "subtopic": "Linear Equation",
+  "question": "Riverside Bike Rental Shop charges P16.00 plus P9.00 an hour for renting a bike. Kenneth paid P70.00 to rent one bike. How many hours did he rent the bike out?",
+  "choices": [
+    "4 hours",
+    "5 hours",
+    "6 hours",
+    "7 hours",
+    "8 hours"
+  ],
+  "answer": "6 hours",
+  "explanation": "70 − 16 = 54, then 54 ÷ 9 = 6 hours."
+},
+{
+  "id": "477",
+  "subject": "Numerical Ability",
+  "subtopic": "Percentage",
+  "question": "A small university has a total of 300 students. If 23% are enrolled in engineering, 15% are enrolled in political science and the rest are enrolled in other courses. How many students are enrolled in other courses?",
+  "choices": [
+    "135 students",
+    "155 students",
+    "172 students",
+    "186 students",
+    "203 students"
+  ],
+  "answer": "186 students",
+  "explanation": "Engineering and political science together account for 23% + 15% = 38%. The remaining percentage is 100% − 38% = 62%. Then compute 62% of 300: 0.62 × 300 = 186."
+},
+{
+  "id": "478",
+  "subject": "Numerical Ability",
+  "subtopic": "Percentage",
+  "question": "The PNP reported that there are 200 blotter reports for the first quarter of the year. They stated that 35% of these are drug-related crimes. How many of the crimes do not belong in that classification?",
+  "choices": [
+    "120",
+    "130",
+    "140",
+    "150",
+    "160"
+  ],
+  "answer": "130",
+  "explanation": "Drug-related crimes = 35% of 200 = 70. The number that are not drug-related is 200 − 70 = 130."
+},
+{
+  "id": "479",
+  "subject": "Numerical Ability",
+  "subtopic": "Percentage",
+  "question": "The Department of Education announced that 18,000 tablets were distributed among public schools after 20% of the devices were examined and found defective. How many tablets were there initially?",
+  "choices": [
+    "22,500 tablets",
+    "23,600 tablets",
+    "25,000 tablets",
+    "26,400 tablets",
+    "28,200 tablets"
+  ],
+  "answer": "22,500 tablets",
+  "explanation": "If 20% were defective, then 80% of the original tablets remained usable. The 18,000 distributed tablets represent 80% of the original total. So original total = 18,000 ÷ 0.80 = 22,500."
+},
+{
+  "id": "480",
+  "subject": "Numerical Ability",
+  "subtopic": "Rate",
+  "question": "A public utility jeep covers a distance of 48.3 kilometers in 2.3 liters of diesel. How much distance will it cover in 1 liter of diesel?",
+  "choices": [
+    "13 kilometers",
+    "15 kilometers",
+    "17 kilometers",
+    "19 kilometers",
+    "21 kilometers"
+  ],
+  "answer": "21 kilometers",
+  "explanation": "Distance per liter = 48.3 ÷ 2.3 = 21."
+},
+{
+  "id": "481",
+  "subject": "Numerical Ability",
+  "subtopic": "Division",
+  "question": "Melody has a ribbon 35.14 meters long. She has to cut it into 7 equal parts. What is the length of each part?",
+  "choices": [
+    "4.08 meters",
+    "5.02 meters",
+    "5.08 meters",
+    "6.02 meters",
+    "6.06 meters"
+  ],
+  "answer": "5.02 meters",
+  "explanation": "Divide total length by number of parts: 35.14 ÷ 7 = 5.02 meters."
+},
+{
+  "id": "482",
+  "subject": "Numerical Ability",
+  "subtopic": "Integers",
+  "question": "A dolphin was swimming 9 feet below the surface. It dove 8 more feet. What is its position now?",
+  "choices": [
+    "15 feet",
+    "1 foot",
+    "-17 feet",
+    "17 feet",
+    "-1 foot"
+  ],
+  "answer": "-17 feet",
+  "explanation": "Below surface is negative. Start at -9, subtract 8 more: -9 − 8 = -17 feet."
+},
+{
+  "id": "483",
+  "subject": "Numerical Ability",
+  "subtopic": "Time",
+  "question": "Kate left school at 11:15 AM, traveled 30 minutes, stayed 3h45m. What time did they leave the museum?",
+  "choices": [
+    "2:45 PM",
+    "3:05 PM",
+    "3:15 PM",
+    "3:30 PM",
+    "3:45 PM"
+  ],
+  "answer": "3:30 PM",
+  "explanation": "Arrival: 11:15 + 30 min = 11:45. Add stay: 11:45 + 3h45m = 3:30 PM."
+},
+{
+  "id": "484",
+  "subject": "Numerical Ability",
+  "subtopic": "Time",
+  "question": "Joel finished a game at 7:00 PM. Levels took 2h, 45m, and 2h15m. When did he start?",
+  "choices": [
+    "1:45 PM",
+    "2:00 PM",
+    "2:15 PM",
+    "2:30 PM",
+    "2:45 PM"
+  ],
+  "answer": "2:00 PM",
+  "explanation": "Total time = 2h + 45m + 2h15m = 5 hours. 7:00 PM − 5h = 2:00 PM."
+},
+{
+  "id": "485",
+  "subject": "Numerical Ability",  
+  "subtopic": "Algebra",
+  "question": "Margareth is 3 times as old as Rhealyn. After 11 years, she is twice as old. What is Rhealyn’s age?",
+  "choices": [
+    "8",
+    "20",
+    "16",
+    "22",
+    "11"
+  ],
+  "answer": "11",
+  "explanation": "Let Rhealyn = x. Margareth = 3x. After 11 years: 3x + 11 = 2(x + 11). Solve: 3x + 11 = 2x + 22 → x = 11."
+},
+{
+  "id": "486",
+  "subject": "Numerical Ability",
+  "subtopic": "Decimal",
+  "question": "587.765 is read as:",
+  "choices": [
+    "Five hundred eighty-seven thousand...",
+    "Five hundred eighty-seven and seven hundred sixty-five thousandths",
+    "Five hundred eighty-seven thousand and seven hundred sixty-five",
+    "Five hundred eighty-seven and seven hundred sixty-five ten thousandths",
+    "Five hundred eighty-seven and seven hundred sixty-five hundredths"
+  ],
+  "answer": "Five hundred eighty-seven and seven hundred sixty-five thousandths",
+  "explanation": "Decimal part (.765) represents thousandths. So it is read as 'seven hundred sixty-five thousandths.'"
+},
+{
+  "id": "487",
+  "subject": "Numerical Ability",
+  "subtopic": "Rounding",
+  "question": "179.177 rounded to nearest hundredths is:",
+  "choices": [
+    "180.177",
+    "180.180",
+    "179.180",
+    "180.000",
+    "179.000"
+  ],
+  "answer": "179.180",
+  "explanation": "Hundredths place is second decimal. Check third decimal (7 → round up). 179.17 becomes 179.18."
+},
+{
+  "id": "488",
+  "subject": "Numerical Ability",
+  "subtopic": "Algebra",
+  "question": "A rectangular lot has perimeter 400m. Length is 10 less than twice width. What is the length?",
+  "choices": [
+    "110",
+    "120",
+    "130",
+    "140",
+    "142"
+  ],
+  "answer": "130",
+  "explanation": "Perimeter = 2(L + W) = 400 → L + W = 200. Substitute → L = 2W − 10. Solve → W=70 → L=130."
+},
+{
+  "id": "489",
+  "subject": "Numerical Ability",
+  "subtopic": "Geometry",
+  "question": "A square lot has area 196 m². How much fencing is needed?",
+  "choices": [
+    "36",
+    "39",
+    "44",
+    "50",
+    "56"
+  ],
+  "answer": "56",
+  "explanation": "Area = side² → side = √196 = 14. Perimeter = 4 × 14 = 56 meters."
+},
+{
+  "id": "490",
+  "subject": "Numerical Ability",
+  "subtopic": "Statistics",
+  "question": "The weights in kilograms of 9 packages are listed below: 16, 2, 22, 41, 6, 13, 9, 15, 8. A 10th package that weighs 12 kilograms is added. What is the median weight in kilograms of the group of packages?",
+  "choices": [
+    "19.8",
+    "25",
+    "22",
+    "12.5",
+    "16.4"
+  ],
+  "answer": "12.5",
+  "explanation": "Arrange values in ascending order: 2, 6, 8, 9, 12, 13, 15, 16, 22, 41. Median = (12 + 13)/2 = 12.5."
+}
+]
