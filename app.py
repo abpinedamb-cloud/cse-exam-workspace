@@ -75,7 +75,7 @@ def get_questions():
     except Exception as e:
         print("Error loading dataset:", e)
         return jsonify({"error": str(e)})
-
+print("TOTAL QUESTIONS:", len(questions))
     # ✅ Always return JSON format
     return jsonify(questions)
 
