@@ -76,6 +76,10 @@ def get_questions():
         print("Error loading dataset:", e)
         return jsonify({"error": str(e)})
 print("TOTAL QUESTIONS:", len(questions))
+print("Analytical:", len(json.load(open("dataset/analytical.json"))))
+print("General:", len(json.load(open("dataset/General.json"))))
+print("Numerical:", len(json.load(open("dataset/Numerical.json"))))
+print("Verbal:", len(json.load(open("dataset/Verbal.json"))))
     # ✅ Always return JSON format
     return jsonify(questions)
 
