@@ -349,7 +349,18 @@ function clearSavedNotes() {
 async function loadFreshQuestions(keepProgress = false) {
   try {
     const res = await fetch("/api/questions");
-    data = await res.json();
+
+    const jsonData = await res.json();
+    console.log("TOTAL QUESTIONS:", jsonData.length);
+
+    // ✅ Shuffle
+    const shuffled = jsonData.sort(() => 0.5 - Math.random());
+
+    // ✅ Limit to 170
+    data = shuffled.slice(0, 170);
+
+    console.log("LOADED FOR EXAM:", data.length);
+
     current = 0;
 
     if (!keepProgress) {
@@ -359,6 +370,7 @@ async function loadFreshQuestions(keepProgress = false) {
       examFinished = false;
       clearSavedProgress();
     }
+
   } catch (err) {
     console.error("Failed to load questions:", err);
     data = [];
