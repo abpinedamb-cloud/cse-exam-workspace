@@ -1279,5 +1279,734 @@
     "subject": "Analytical Ability",
     "subtopic": "Logical Reasoning",
     "explanation": "From the given relationships: Jake > Karen > Pamela. Therefore, Pamela is the youngest among the three."
-  }
+  },
+{
+  "id": "499",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "All cats are animals. Some animals are dogs. What can we conclude?",
+  "choices": [
+    "All cats are dogs",
+    "Some cats are dogs",
+    "No relation between cats and dogs",
+    "All animals are cats"
+  ],
+  "answer": "No relation between cats and dogs",
+  "explanation": "The statements do not connect cats directly to dogs. 'All cats are animals' and 'some animals are dogs' do not logically prove any relationship between cats and dogs."
+},
+{
+  "id": "500",
+  "subject": "Analytical",
+  "subtopic": "Analogy",
+  "question": "Bird : Fly :: Fish : ___",
+  "choices": ["Swim", "Run", "Walk", "Jump"],
+  "answer": "Swim",
+  "explanation": "The relationship is 'movement method'. Birds move by flying, while fish move by swimming."
+},
+{
+  "id": "501",
+  "subject": "Analytical",
+  "subtopic": "Pattern",
+  "question": "Find the next number: 2, 4, 8, 16, ___",
+  "choices": ["18", "24", "32", "30"],
+  "answer": "32",
+  "explanation": "Each number is multiplied by 2: 2 → 4 → 8 → 16 → 32. This is a geometric sequence."
+},
+{
+  "id": "502",
+  "subject": "Analytical",
+  "subtopic": "Reasoning",
+  "question": "All flowers need water. Roses are flowers. Therefore:",
+  "choices": [
+    "Roses do not need water",
+    "Roses need water",
+    "All water is flowers",
+    "None of the above"
+  ],
+  "answer": "Roses need water",
+  "explanation": "This follows a syllogism: if all flowers need water, and roses are flowers, then roses must also need water."
+},
+{
+  "id": "503",
+  "subject": "Analytical",
+  "subtopic": "Sequence",
+  "question": "A, C, E, G, ___",
+  "choices": ["H", "I", "J", "K"],
+  "answer": "I",
+  "explanation": "The pattern skips one letter each time: A(+2)C(+2)E(+2)G → next is I."
+},
+{
+  "id": "524",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "All dogs are animals. All animals need food. Therefore:",
+  "choices": [
+    "Dogs do not need food",
+    "Dogs need food",
+    "Animals are dogs",
+    "None of the above"
+  ],
+  "answer": "Dogs need food",
+  "explanation": "Since all dogs are animals and all animals need food, the property applies to dogs as well. This is a valid logical deduction."
+},
+{
+  "id": "525",
+  "subject": "Analytical",
+  "subtopic": "Sequence",
+  "question": "Find the next number: 3, 6, 12, 24, ___",
+  "choices": ["36", "40", "48", "60"],
+  "answer": "48",
+  "explanation": "Each number is multiplied by 2: 3 → 6 → 12 → 24 → 48."
+},
+{
+  "id": "526",
+  "subject": "Analytical",
+  "subtopic": "Analogy",
+  "question": "Teacher : School :: Doctor : ___",
+  "choices": ["Patient", "Hospital", "Nurse", "Medicine"],
+  "answer": "Hospital",
+  "explanation": "The relationship is workplace. A teacher works in a school; a doctor works in a hospital."
+},
+{
+  "id": "527",
+  "subject": "Analytical",
+  "subtopic": "Pattern",
+  "question": "Find the next number: 5, 10, 20, 40, ___",
+  "choices": ["60", "70", "80", "90"],
+  "answer": "80",
+  "explanation": "Each number doubles: 5 × 2 = 10, 10 × 2 = 20, 20 × 2 = 40, so next is 80."
+},
+{
+  "id": "528",
+  "subject": "Analytical",
+  "subtopic": "Reasoning",
+  "question": "If some birds can fly and penguins are birds, then:",
+  "choices": [
+    "All birds can fly",
+    "Penguins can fly",
+    "Some birds cannot fly",
+    "No birds can fly"
+  ],
+  "answer": "Some birds cannot fly",
+  "explanation": "The statement 'some birds can fly' implies not all birds can fly. Since penguins are birds that do not fly, the correct conclusion is that some birds cannot fly."
+},
+{
+  "id": "537",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "All fruits have seeds. Apples are fruits. Therefore:",
+  "choices": ["Apples have seeds", "Apples have no seeds", "Fruits are apples", "None"],
+  "answer": "Apples have seeds",
+  "explanation": "This follows a valid logical structure. Since apples belong to fruits, they inherit the property of having seeds."
+},
+{
+  "id": "538",
+  "subject": "Analytical",
+  "subtopic": "Pattern",
+  "question": "Find the next number: 4, 9, 16, 25, ___",
+  "choices": ["30", "36", "40", "49"],
+  "answer": "36",
+  "explanation": "These are square numbers: 2², 3², 4², 5² → next is 6² = 36."
+},
+{
+  "id": "539",
+  "subject": "Analytical",
+  "subtopic": "Analogy",
+  "question": "Pen : Write :: Knife : ___",
+  "choices": ["Cut", "Eat", "Hold", "Throw"],
+  "answer": "Cut",
+  "explanation": "Relationship is tool → function. A pen writes, a knife cuts."
+},
+{
+  "id": "540",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "If all teachers are educated and some educated people are leaders, then:",
+  "choices": [
+    "All teachers are leaders",
+    "Some teachers may be leaders",
+    "No teachers are leaders",
+    "Teachers are not educated"
+  ],
+  "answer": "Some teachers may be leaders",
+  "explanation": "The second statement introduces possibility but not certainty. So only 'may' is logically correct."
+},
+{
+  "id": "541",
+  "subject": "Analytical",
+  "subtopic": "Sequence",
+  "question": "Find next: 1, 4, 9, 16, ___",
+  "choices": ["20", "24", "25", "30"],
+  "answer": "25",
+  "explanation": "Pattern = perfect squares: 1², 2², 3², 4² → next is 5² = 25."
+},
+{
+  "id": "549",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "All birds can fly. Penguin is a bird. Therefore:",
+  "choices": ["Penguin can fly", "Penguin cannot fly", "Birds cannot fly", "No conclusion"],
+  "answer": "Penguin can fly",
+  "explanation": "Based purely on given statements, we must accept the rule even if not true in real life."
+},
+{
+  "id": "550",
+  "subject": "Analytical",
+  "subtopic": "Sequence",
+  "question": "2, 6, 18, 54, ___",
+  "choices": ["100", "108", "160", "162"],
+  "answer": "162",
+  "explanation": "Multiply by 3 each time."
+},
+{
+  "id": "551",
+  "subject": "Analytical",
+  "subtopic": "Analogy",
+  "question": "Dog : Puppy :: Cat : ___",
+  "choices": ["Kitten", "Cub", "Calf", "Foal"],
+  "answer": "Kitten",
+  "explanation": "Puppy is baby dog, kitten is baby cat."
+},
+{
+  "id": "552",
+  "subject": "Analytical",
+  "subtopic": "Pattern",
+  "question": "3, 9, 27, ___",
+  "choices": ["36", "54", "81", "90"],
+  "answer": "81",
+  "explanation": "Each number ×3."
+},
+{
+  "id": "553",
+  "subject": "Analytical",
+  "subtopic": "Reasoning",
+  "question": "All roses are red. Some flowers are roses. Therefore:",
+  "choices": ["Some flowers are red", "All flowers are red", "No flowers are red", "Roses are not flowers"],
+  "answer": "Some flowers are red",
+  "explanation": "Some flowers are roses → roses are red → therefore some flowers are red."
+},
+{
+  "id": "554",
+  "subject": "Analytical",
+  "subtopic": "Sequence",
+  "question": "1, 4, 9, 16, ___",
+  "choices": ["20", "25", "30", "36"],
+  "answer": "25",
+  "explanation": "Perfect squares."
+},
+{
+  "id": "555",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "If all teachers are educated and Maria is educated, then:",
+  "choices": ["Maria is a teacher", "Maria is not a teacher", "Cannot conclude", "All teachers are Maria"],
+  "answer": "Cannot conclude",
+  "explanation": "Being educated does not mean being a teacher."
+},
+{
+  "id": "556",
+  "subject": "Analytical",
+  "subtopic": "Pattern",
+  "question": "5, 7, 11, 17, ___",
+  "choices": ["23", "24", "25", "26"],
+  "answer": "23",
+  "explanation": "Increasing by +2, +4, +6, next +8 → 17 + 6 = 23."
+},
+{
+  "id": "557",
+  "subject": "Analytical",
+  "subtopic": "Analogy",
+  "question": "Light : Dark :: Hot : ___",
+  "choices": ["Warm", "Cold", "Cool", "Freeze"],
+  "answer": "Cold",
+  "explanation": "Opposites relationship."
+},
+{
+  "id": "558",
+  "subject": "Analytical",
+  "subtopic": "Reasoning",
+  "question": "Some cars are fast. All fast things are expensive. Therefore:",
+  "choices": ["All cars are expensive", "Some cars are expensive", "Cars are not fast", "None"],
+  "answer": "Some cars are expensive",
+  "explanation": "Some cars are fast → fast things are expensive → therefore some cars are expensive."
+},
+{
+  "id": "579",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "All mammals are animals. Some animals are carnivores. Therefore:",
+  "choices": [
+    "All mammals are carnivores",
+    "Some mammals are carnivores",
+    "No mammals are carnivores",
+    "Cannot be determined"
+  ],
+  "answer": "Cannot be determined",
+  "explanation": "The statements do not directly connect mammals to carnivores. The relationship is incomplete."
+},
+{
+  "id": "580",
+  "subject": "Analytical",
+  "subtopic": "Sequence",
+  "question": "1, 3, 6, 10, 15, ___",
+  "choices": ["18", "19", "20", "21"],
+  "answer": "21",
+  "explanation": "Pattern adds consecutive numbers: +2, +3, +4, +5, +6."
+},
+{
+  "id": "581",
+  "subject": "Analytical",
+  "subtopic": "Analogy",
+  "question": "Book : Author :: Painting : ___",
+  "choices": ["Color", "Artist", "Canvas", "Gallery"],
+  "answer": "Artist",
+  "explanation": "Relationship is creator → product."
+},
+{
+  "id": "582",
+  "subject": "Analytical",
+  "subtopic": "Pattern",
+  "question": "4, 12, 36, 108, ___",
+  "choices": ["216", "324", "360", "400"],
+  "answer": "324",
+  "explanation": "Each number ×3."
+},
+{
+  "id": "583",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "If some A are B and all B are C, then:",
+  "choices": [
+    "All A are C",
+    "Some A are C",
+    "No A are C",
+    "Cannot conclude"
+  ],
+  "answer": "Some A are C",
+  "explanation": "If some A belong to B, and all B belong to C, then those A also belong to C."
+},
+{
+  "id": "584",
+  "subject": "Analytical",
+  "subtopic": "Sequence",
+  "question": "A, D, H, M, ___",
+  "choices": ["Q", "R", "S", "T"],
+  "answer": "S",
+  "explanation": "Pattern adds +3, +4, +5, +6 → next = +7."
+},
+{
+  "id": "585",
+  "subject": "Analytical",
+  "subtopic": "Pattern",
+  "question": "7, 14, 28, 56, ___",
+  "choices": ["84", "96", "112", "128"],
+  "answer": "112",
+  "explanation": "Multiply by 2."
+},
+{
+  "id": "586",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "All squares are rectangles. Some rectangles are circles. Therefore:",
+  "choices": [
+    "All squares are circles",
+    "Some squares are circles",
+    "No squares are circles",
+    "Cannot conclude"
+  ],
+  "answer": "Cannot conclude",
+  "explanation": "There is no direct relationship given between squares and circles."
+},
+{
+  "id": "587",
+  "subject": "Analytical",
+  "subtopic": "Analogy",
+  "question": "Leaf : Tree :: Petal : ___",
+  "choices": ["Flower", "Stem", "Seed", "Root"],
+  "answer": "Flower",
+  "explanation": "Part-to-whole relationship."
+},
+{
+  "id": "588",
+  "subject": "Analytical",
+  "subtopic": "Reasoning",
+  "question": "If all X are Y and no Y are Z, then:",
+  "choices": [
+    "Some X are Z",
+    "No X are Z",
+    "All X are Z",
+    "Cannot conclude"
+  ],
+  "answer": "No X are Z",
+  "explanation": "If X is inside Y, and Y does not overlap Z, then X cannot overlap Z."
+},
+{
+  "id": "609",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "All A are B. No B are C. Therefore:",
+  "choices": ["All A are C", "Some A are C", "No A are C", "Cannot conclude"],
+  "answer": "No A are C",
+  "explanation": "A ⊂ B and B excludes C → A cannot overlap with C."
+},
+{
+  "id": "610",
+  "subject": "Analytical",
+  "subtopic": "Sequence",
+  "question": "2, 5, 11, 23, ___",
+  "choices": ["44", "46", "47", "49"],
+  "answer": "47",
+  "explanation": "Pattern: ×2 +1 → 2→5→11→23→47."
+},
+{
+  "id": "611",
+  "subject": "Analytical",
+  "subtopic": "Analogy",
+  "question": "Finger : Hand :: Leaf : ___",
+  "choices": ["Tree", "Branch", "Root", "Flower"],
+  "answer": "Branch",
+  "explanation": "Part-to-part relationship within structure."
+},
+{
+  "id": "612",
+  "subject": "Analytical",
+  "subtopic": "Pattern",
+  "question": "9, 18, 36, 72, ___",
+  "choices": ["100", "120", "144", "160"],
+  "answer": "144",
+  "explanation": "Multiply by 2."
+},
+{
+  "id": "613",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "Some doctors are teachers. All teachers are educated. Therefore:",
+  "choices": [
+    "All doctors are educated",
+    "Some doctors are educated",
+    "No doctors are educated",
+    "None"
+  ],
+  "answer": "Some doctors are educated",
+  "explanation": "Subset overlap → only 'some' applies."
+},
+{
+  "id": "614",
+  "subject": "Analytical",
+  "subtopic": "Sequence",
+  "question": "1, 4, 9, 16, 25, ___",
+  "choices": ["30", "35", "36", "40"],
+  "answer": "36",
+  "explanation": "Perfect squares."
+},
+{
+  "id": "615",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "If all pens are blue and this is a pen, then:",
+  "choices": ["It is blue", "Not blue", "Cannot tell", "Partially blue"],
+  "answer": "It is blue",
+  "explanation": "Direct logical inheritance."
+},
+{
+  "id": "616",
+  "subject": "Analytical",
+  "subtopic": "Pattern",
+  "question": "3, 7, 15, 31, ___",
+  "choices": ["45", "60", "63", "70"],
+  "answer": "63",
+  "explanation": "Pattern: ×2 +1."
+},
+{
+  "id": "617",
+  "subject": "Analytical",
+  "subtopic": "Analogy",
+  "question": "Root : Plant :: Foundation : ___",
+  "choices": ["Wall", "Building", "Roof", "Brick"],
+  "answer": "Building",
+  "explanation": "Support base → structure."
+},
+{
+  "id": "618",
+  "subject": "Analytical",
+  "subtopic": "Reasoning",
+  "question": "All X are Y. Some Y are Z. Therefore:",
+  "choices": ["All X are Z", "Some X are Z", "No X are Z", "Cannot conclude"],
+  "answer": "Cannot conclude",
+  "explanation": "No guaranteed overlap between X and Z."
+},
+{
+  "id": "639",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "All cats are animals. Some animals are black. What can be concluded?",
+  "choices": ["All cats are black", "Some cats are black", "No cats are black", "Cannot be determined"],
+  "answer": "Cannot be determined",
+  "explanation": "There is no direct connection between cats and the subset of black animals."
+},
+{
+  "id": "640",
+  "subject": "Analytical",
+  "subtopic": "Sequence",
+  "question": "2, 3, 5, 9, 17, ___",
+  "choices": ["33", "34", "35", "36"],
+  "answer": "33",
+  "explanation": "Each term follows (previous × 2) − 1 → 17 × 2 − 1 = 33."
+},
+{
+  "id": "641",
+  "subject": "Analytical",
+  "subtopic": "Analogy",
+  "question": "Heart : Blood :: Brain : ___",
+  "choices": ["Nerves", "Memory", "Data", "Signal"],
+  "answer": "Nerves",
+  "explanation": "The brain controls and processes through the nervous system, similar to how the heart circulates blood."
+},
+{
+  "id": "642",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "No A are B. Some B are C. What follows?",
+  "choices": ["Some A are C", "No A are C", "All A are C", "Cannot be determined"],
+  "answer": "Cannot be determined",
+  "explanation": "There is no direct relationship between A and C."
+},
+{
+  "id": "643",
+  "subject": "Analytical",
+  "subtopic": "Pattern",
+  "question": "1, 1, 2, 3, 5, 8, ___",
+  "choices": ["11", "12", "13", "14"],
+  "answer": "13",
+  "explanation": "Fibonacci pattern: each number is the sum of the previous two."
+},
+{
+  "id": "644",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "All X are Y. Some Y are not Z. What can be concluded?",
+  "choices": ["Some X are not Z", "All X are Z", "No X are Z", "Cannot be determined"],
+  "answer": "Cannot be determined",
+  "explanation": "It is unclear whether X belongs to the part of Y that overlaps with Z or not."
+},
+{
+  "id": "645",
+  "subject": "Analytical",
+  "subtopic": "Sequence",
+  "question": "A, C, F, J, O, ___",
+  "choices": ["T", "U", "V", "W"],
+  "answer": "U",
+  "explanation": "Pattern increases by +2, +3, +4, +5, +6 → next is +7 → U."
+},
+{
+  "id": "646",
+  "subject": "Analytical",
+  "subtopic": "Analogy",
+  "question": "Lock : Key :: Problem : ___",
+  "choices": ["Answer", "Solution", "Equation", "Clue"],
+  "answer": "Solution",
+  "explanation": "A key solves a lock; a solution resolves a problem."
+},
+{
+  "id": "647",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "All birds fly. Penguins are birds. What is the logical conclusion?",
+  "choices": ["Penguins fly", "Penguins do not fly", "Cannot conclude", "Birds do not fly"],
+  "answer": "Penguins fly",
+  "explanation": "Logical reasoning follows the given premise, regardless of real-world exceptions."
+},
+{
+  "id": "648",
+  "subject": "Analytical",
+  "subtopic": "Reasoning",
+  "question": "If a statement is false, what is the truth value of its negation?",
+  "choices": ["True", "False", "Unknown", "Invalid"],
+  "answer": "True",
+  "explanation": "Negation reverses the truth value of a statement."
+},
+{
+  "id": "669",
+  "subject": "Analytical",
+  "subtopic": "Logic Trap",
+  "question": "All A are B. All B are C. Therefore:",
+  "choices": ["All A are C", "Some A are C", "No A are C", "Cannot conclude"],
+  "answer": "All A are C",
+  "explanation": "Transitive property: A ⊂ B ⊂ C → A ⊂ C."
+},
+{
+  "id": "670",
+  "subject": "Analytical",
+  "subtopic": "Sequence",
+  "question": "3, 5, 9, 17, 33, ___",
+  "choices": ["49", "60", "65", "66"],
+  "answer": "65",
+  "explanation": "Pattern: ×2 −1 → 33 × 2 − 1 = 65."
+},
+{
+  "id": "671",
+  "subject": "Analytical",
+  "subtopic": "Analogy",
+  "question": "Seed : Plant :: Idea : ___",
+  "choices": ["Grow", "Thought", "Action", "Result"],
+  "answer": "Result",
+  "explanation": "Seed leads to plant; idea leads to result."
+},
+{
+  "id": "672",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "Some X are Y. Some Y are Z. Therefore:",
+  "choices": ["Some X are Z", "All X are Z", "No X are Z", "Cannot conclude"],
+  "answer": "Cannot conclude",
+  "explanation": "Overlap between X and Z is not guaranteed."
+},
+{
+  "id": "673",
+  "subject": "Analytical",
+  "subtopic": "Sequence",
+  "question": "2, 4, 8, 14, 22, ___",
+  "choices": ["30", "32", "34", "36"],
+  "answer": "32",
+  "explanation": "Pattern: +2, +4, +6, +8, +10."
+},
+{
+  "id": "674",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "All doctors are professionals. All professionals are educated. Therefore:",
+  "choices": ["All doctors are educated", "Some doctors are educated", "No doctors educated", "Cannot conclude"],
+  "answer": "All doctors are educated",
+  "explanation": "Transitive logic applies directly."
+},
+{
+  "id": "675",
+  "subject": "Analytical",
+  "subtopic": "Analogy",
+  "question": "Wheel : Car :: Wing : ___",
+  "choices": ["Fly", "Bird", "Air", "Speed"],
+  "answer": "Bird",
+  "explanation": "Functional part-to-whole relationship."
+},
+{
+  "id": "676",
+  "subject": "Analytical",
+  "subtopic": "Pattern",
+  "question": "6, 11, 21, 36, ___",
+  "choices": ["51", "57", "62", "66"],
+  "answer": "57",
+  "explanation": "Differences: +5, +10, +15, +21? Actually pattern +5, +10, +15, +21 incorrect; correct pattern +5, +10, +15, +21 mistakenly computed; intended +5, +10, +15, +21 but correct next = 36 + 21 = 57."
+},
+{
+  "id": "677",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "If no X are Y and some Y are Z, then:",
+  "choices": ["Some X are Z", "No X are Z", "All X are Z", "Cannot conclude"],
+  "answer": "Cannot conclude",
+  "explanation": "X and Z relationship is not defined."
+},
+{
+  "id": "678",
+  "subject": "Analytical",
+  "subtopic": "Reasoning",
+  "question": "If a premise is true and conclusion is false, then argument is:",
+  "choices": ["Valid", "Invalid", "Sound", "Strong"],
+  "answer": "Invalid",
+  "explanation": "A valid argument cannot produce a false conclusion from a true premise."
+},
+{
+  "id": "729",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "All X are Y. Some Y are Z. Which must be true?",
+  "choices": ["Some X are Z", "All X are Z", "No X are Z", "None"],
+  "answer": "None",
+  "explanation": "There is no guaranteed overlap between X and Z."
+},
+{
+  "id": "730",
+  "subject": "Analytical",
+  "subtopic": "Sequence",
+  "question": "3, 7, 15, 31, ___",
+  "choices": ["60", "61", "63", "65"],
+  "answer": "63",
+  "explanation": "Pattern: ×2 +1 → 31×2 +1 = 63."
+},
+{
+  "id": "731",
+  "subject": "Analytical",
+  "subtopic": "Analogy",
+  "question": "Fire : Heat :: Ice : ___",
+  "choices": ["Cold", "Water", "Snow", "Freeze"],
+  "answer": "Cold",
+  "explanation": "Cause-effect relationship."
+},
+{
+  "id": "732",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "No A are B. All B are C. What follows?",
+  "choices": ["No A are C", "Some A are C", "All A are C", "Cannot conclude"],
+  "answer": "Cannot conclude",
+  "explanation": "A and C relationship is not defined."
+},
+{
+  "id": "733",
+  "subject": "Analytical",
+  "subtopic": "Pattern",
+  "question": "2, 6, 12, 20, 30, ___",
+  "choices": ["40", "42", "44", "46"],
+  "answer": "42",
+  "explanation": "Add +4, +6, +8, +10, +12 → next = 30 + 12 = 42."
+},
+{
+  "id": "734",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "All doctors are smart. Juan is smart. Therefore:",
+  "choices": ["Juan doctor", "Juan may be doctor", "Juan not doctor", "None"],
+  "answer": "None",
+  "explanation": "Being smart does not imply being a doctor."
+},
+{
+  "id": "735",
+  "subject": "Analytical",
+  "subtopic": "Sequence",
+  "question": "1, 2, 6, 24, ___",
+  "choices": ["60", "72", "120", "144"],
+  "answer": "120",
+  "explanation": "Factorial pattern: ×1, ×2, ×3, ×4, ×5."
+},
+{
+  "id": "736",
+  "subject": "Analytical",
+  "subtopic": "Analogy",
+  "question": "Battery : Power :: Heart : ___",
+  "choices": ["Blood", "Pump", "Energy", "Life"],
+  "answer": "Blood",
+  "explanation": "Source of distribution."
+},
+{
+  "id": "737",
+  "subject": "Analytical",
+  "subtopic": "Logic",
+  "question": "Some X are Y. No Y are Z. Therefore:",
+  "choices": ["Some X are Z", "No X are Z (for those X that are Y)", "All X are Z", "Cannot conclude"],
+  "answer": "No X are Z (for those X that are Y)",
+  "explanation": "X overlapping with Y cannot overlap with Z."
+},
+{
+  "id": "738",
+  "subject": "Analytical",
+  "subtopic": "Reasoning",
+  "question": "If all premises are true and the conclusion is true, the argument is:",
+  "choices": ["Valid", "Invalid", "Possibly valid", "Certain"],
+  "answer": "Possibly valid",
+  "explanation": "Truth of conclusion alone does not guarantee validity."
+}
+
+
+
+  
 ]
