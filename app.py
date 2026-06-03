@@ -52,12 +52,32 @@ def home():
     return render_template("index.html")
 
 
+import json
+from flask import jsonify
+
 @app.route("/api/questions")
 def get_questions():
-    all_q = load_questions()
+    questions = []
 
-    if not all_q:
-        return jsonify([])
+    try:
+        with open("dataset/analytical.json") as f:
+            questions += json.load(f)
+
+        with open("dataset/general.json") as f:
+            questions += json.load(f)
+
+        with open("dataset/numerical.json") as f:
+            questions += json.load(f)
+
+        with open("dataset/verbal.json") as f:
+            questions += json.load(f)
+
+    except Exception as e:
+        print("Error loading dataset:", e)
+        return jsonify({"error": str(e)})
+
+    # ✅ Always return JSON format
+    return jsonify(questions)
 
     # ✅ Try balanced selection (safe version)
     analytical = [q for q in all_q if q.get("subject") == "Analytical"]
