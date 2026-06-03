@@ -1,0 +1,691 @@
+[
+  {
+    "id": "257",
+    "subject": "General",
+    "subtopic": "Government",
+    "question": "What are the 3 main branches of the Government of the Philippines?",
+    "choices": [
+      "Senate, Supreme Court, Congress",
+      "Legislative, Executive, Judicial",
+      "President, Senate, Judiciary",
+      "Executive only"
+    ],
+    "answer": "Legislative, Executive, Judicial",
+    "explanation": "The correct answer is 'Legislative, Executive, Judicial' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "258",
+    "subject": "General",
+    "subtopic": "Government",
+    "question": "Supreme Court composition?",
+    "choices": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "answer": "14",
+    "explanation": "The correct answer is '14' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "259",
+    "subject": "General",
+    "subtopic": "Government",
+    "question": "Commander-in-chief of Philippines 2019?",
+    "choices": [
+      "Duterte",
+      "CJ Sereno",
+      "AFP Chief",
+      "Senator"
+    ],
+    "answer": "Duterte",
+    "explanation": "The correct answer is 'Duterte' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "310",
+    "subject": "General",
+    "subtopic": "Data Interpretation",
+    "question": "The table shows the data Steve collected while watching birds for one week. How many raptors did Steve see on Monday?",
+    "choices": [
+      "6 raptors",
+      "7 raptors",
+      "8 raptors",
+      "10 raptors"
+    ],
+    "answer": "6 raptors",
+    "explanation": "The correct answer is '6 raptors' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "406",
+    "subject": "General",
+    "subtopic": "Clerical Operation",
+    "question": "This is a type of document issued by a seller to a buyer relating to a sale transaction.",
+    "choices": [
+      "Check voucher",
+      "Purchase order",
+      "Delivery receipt",
+      "Sales invoice"
+    ],
+    "answer": "Sales invoice",
+    "explanation": "The correct answer is 'Sales invoice' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "407",
+    "subject": "General",
+    "subtopic": "Clerical Operation",
+    "question": "Which of the following is NOT a usual document used in a sales company?",
+    "choices": [
+      "Form 137",
+      "Delivery receipt",
+      "Sales invoice",
+      "Purchase order"
+    ],
+    "answer": "Form 137",
+    "explanation": "The correct answer is 'Form 137' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "408",
+    "subject": "General",
+    "subtopic": "Clerical Operation",
+    "question": "What is the best way to answer a phone call in a company?",
+    "choices": [
+      "Say hello and wait",
+      "Get pen first",
+      "Answer politely and introduce the company",
+      "Wait for others"
+    ],
+    "answer": "Answer politely and introduce the company",
+    "explanation": "The correct answer is 'Answer politely and introduce the company' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "409",
+    "subject": "General",
+    "subtopic": "Clerical Operation",
+    "question": "An example of a hard copy document is:",
+    "choices": [
+      "PDF file",
+      "Email message",
+      "USB file",
+      "Paper business letter"
+    ],
+    "answer": "Paper business letter",
+    "explanation": "The correct answer is 'Paper business letter' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "410",
+    "subject": "General",
+    "subtopic": "ICT",
+    "question": "What does CC mean in an email?",
+    "choices": [
+      "Copy sent",
+      "Copy furnished",
+      "Copy cat",
+      "Client copy"
+    ],
+    "answer": "Copy furnished",
+    "explanation": "The correct answer is 'Copy furnished' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "411",
+    "subject": "General",
+    "subtopic": "ICT",
+    "question": "Which program is used to send emails?",
+    "choices": [
+      "Word",
+      "Excel",
+      "Outlook",
+      "PowerPoint"
+    ],
+    "answer": "Outlook",
+    "explanation": "The correct answer is 'Outlook' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "412",
+    "subject": "General",
+    "subtopic": "ICT",
+    "question": "This is a telephonic transmission of scanned documents.",
+    "choices": [
+      "Photocopying Machine",
+      "Fax Machine",
+      "Typewriter",
+      "Inkjet Printer"
+    ],
+    "answer": "Fax Machine",
+    "explanation": "The correct answer is 'Fax Machine' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "413",
+    "subject": "General",
+    "subtopic": "Business",
+    "question": "The chief financial officer is also known as the",
+    "choices": [
+      "Auditor",
+      "Treasurer",
+      "CEO",
+      "Manager"
+    ],
+    "answer": "Treasurer",
+    "explanation": "The correct answer is 'Treasurer' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "414",
+    "subject": "General",
+    "subtopic": "Business",
+    "question": "Which department handles cash register operations?",
+    "choices": [
+      "Cashier",
+      "Billing",
+      "Accounting",
+      "Budget"
+    ],
+    "answer": "Cashier",
+    "explanation": "This question requires interpreting data or performing calculations. The correct answer 'Cashier' comes from properly analyzing the given values."
+  },
+  {
+    "id": "415",
+    "subject": "General",
+    "subtopic": "ICT",
+    "question": "An example of a soft copy is:",
+    "choices": [
+      "Printed paper",
+      "Handwritten copy",
+      "Saved and emailed file",
+      "Photocopied document"
+    ],
+    "answer": "Saved and emailed file",
+    "explanation": "The correct answer is 'Saved and emailed file' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "416",
+    "subject": "General",
+    "subtopic": "Philippine General Knowledge",
+    "question": "What is the official motto of the 30th SEA Games?",
+    "choices": [
+      "We Care As One",
+      "We Play As One",
+      "We Win As One",
+      "We Work As One"
+    ],
+    "answer": "We Win As One",
+    "explanation": "The correct answer is 'We Win As One' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "417",
+    "subject": "General",
+    "subtopic": "Philippine General Knowledge",
+    "question": "How many Philippine holidays were declared for 2019?",
+    "choices": [
+      "16",
+      "18",
+      "19",
+      "15",
+      "14"
+    ],
+    "answer": "18",
+    "explanation": "The correct answer is '18' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "418",
+    "subject": "General",
+    "subtopic": "Science",
+    "question": "Which statement best describes global warming and ozone depletion?",
+    "choices": [
+      "Ozone depletion contributes to global warming",
+      "Global warming causes ozone depletion",
+      "No relation",
+      "CO2 causes both equally"
+    ],
+    "answer": "Ozone depletion contributes to global warming",
+    "explanation": "The correct answer is 'Ozone depletion contributes to global warming' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "419",
+    "subject": "General",
+    "subtopic": "Philippine General Knowledge",
+    "question": "The only Philippine province with an English name is",
+    "choices": [
+      "Cebu",
+      "Mountain Province",
+      "General Santos",
+      "Zambales"
+    ],
+    "answer": "Mountain Province",
+    "explanation": "The correct answer is 'Mountain Province' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "420",
+    "subject": "General",
+    "subtopic": "Philippine Constitution",
+    "question": "What form of government does the Philippines adopt?",
+    "choices": [
+      "Republican",
+      "Democratic",
+      "Neither",
+      "Both"
+    ],
+    "answer": "Both",
+    "explanation": "The correct answer is 'Both' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "421",
+    "subject": "General",
+    "subtopic": "Philippine Constitution",
+    "question": "Who among the following may issue a warrant of arrest or a search warrant?",
+    "choices": [
+      "Senator",
+      "Judge",
+      "Congressman",
+      "President"
+    ],
+    "answer": "Judge",
+    "explanation": "The correct answer is 'Judge' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "422",
+    "subject": "General",
+    "subtopic": "Philippine Constitution",
+    "question": "A foreigner may acquire Filipino citizenship through",
+    "choices": [
+      "Naturalization",
+      "Extradition",
+      "Rebirth",
+      "Visa application"
+    ],
+    "answer": "Naturalization",
+    "explanation": "The correct answer is 'Naturalization' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "423",
+    "subject": "General",
+    "subtopic": "Philippine Constitution",
+    "question": "What is regarded by the State as a 'primary social economic force'?",
+    "choices": [
+      "education",
+      "trade",
+      "labor",
+      "commerce"
+    ],
+    "answer": "labor",
+    "explanation": "The correct answer is 'labor' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "424",
+    "subject": "General",
+    "subtopic": "Philippine Constitution",
+    "question": "The writ of habeas corpus may be suspended in times of rebellion or what?",
+    "choices": [
+      "martial law",
+      "war",
+      "terrorism",
+      "invasion"
+    ],
+    "answer": "invasion",
+    "explanation": "The correct answer is 'invasion' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "425",
+    "subject": "General",
+    "subtopic": "Government",
+    "question": "The Lower Chamber of Congress is called",
+    "choices": [
+      "Senate",
+      "Congressional Lower Chamber",
+      "National Assembly",
+      "House of Representatives"
+    ],
+    "answer": "House of Representatives",
+    "explanation": "The correct answer is 'House of Representatives' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "426",
+    "subject": "General",
+    "subtopic": "Government",
+    "question": "What fraction is required to expel a member of Congress?",
+    "choices": [
+      "two-thirds",
+      "majority",
+      "three-fourths",
+      "nine-tenths"
+    ],
+    "answer": "two-thirds",
+    "explanation": "The correct answer is 'two-thirds' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "427",
+    "subject": "General",
+    "subtopic": "Government",
+    "question": "How long does the President have to veto a bill?",
+    "choices": [
+      "3 weeks",
+      "48 days",
+      "60 days",
+      "30 days"
+    ],
+    "answer": "30 days",
+    "explanation": "The correct answer is '30 days' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "428",
+    "subject": "General",
+    "subtopic": "Environment",
+    "question": "Which DENR project focuses on protection from industrial pollution?",
+    "choices": [
+      "Bantay Kalikasan",
+      "Bantay Ilog",
+      "Bantay Dagat",
+      "Solid Waste Management"
+    ],
+    "answer": "Solid Waste Management",
+    "explanation": "The correct answer is 'Solid Waste Management' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "429",
+    "subject": "General",
+    "subtopic": "Government",
+    "question": "What agency status applies to voluntary services?",
+    "choices": [
+      "Secretary",
+      "Regional",
+      "Municipal",
+      "National",
+      "Barangay"
+    ],
+    "answer": "Barangay",
+    "explanation": "The correct answer is 'Barangay' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "430",
+    "subject": "General",
+    "subtopic": "Government",
+    "question": "Which is NOT a ground for impeachment?",
+    "choices": [
+      "graft and corruption",
+      "sexual harassment",
+      "grave abuse of authority",
+      "family discipline case",
+      "other crimes"
+    ],
+    "answer": "family discipline case",
+    "explanation": "The correct answer is 'family discipline case' based on applying the appropriate reasoning method."
+  },
+  {
+    "question": "What is the third to the least-selling toy of Toy Nation Corporation?",
+    "choices": [
+      "toy cars",
+      "action figures",
+      "dolls",
+      "board games",
+      "plush toys"
+    ],
+    "answer": "toy cars",
+    "subject": "Numerical Ability",
+    "subtopic": "Data Interpretation",
+    "explanation": "Based on the ranking of sales in the graph, toy cars fall third from the least when ordering the items from lowest to highest."
+  },
+  {
+    "question": "Dolls outperform educational toys by how many units?",
+    "choices": [
+      "3,858,323",
+      "3,855,823",
+      "3,558,328",
+      "3,585,238",
+      "3,855,283"
+    ],
+    "answer": "3,855,283",
+    "subject": "Numerical Ability",
+    "subtopic": "Data Interpretation",
+    "explanation": "Subtract the sales of educational toys from dolls. The difference given in the dataset corresponds to 3,855,283 units."
+  },
+  {
+    "question": "What is the monthly average units sold by action figures?",
+    "choices": [
+      "1,402,704",
+      "1,420,073",
+      "1,402,731",
+      "1,042,307",
+      "1,204,703"
+    ],
+    "answer": "1,042,307",
+    "subject": "Numerical Ability",
+    "subtopic": "Data Interpretation",
+    "explanation": "Divide the total annual sales of action figures by 12 months to get the monthly average."
+  },
+  {
+    "question": "Difference in sales between second highest and second lowest toy?",
+    "choices": [
+      "9,229,805",
+      "9,292,805",
+      "9,922,805",
+      "9,229,508",
+      "9,292,058"
+    ],
+    "answer": "9,229,805",
+    "subject": "Numerical Ability",
+    "subtopic": "Data Interpretation",
+    "explanation": "Subtract the second lowest from the second highest category based on ranking from the graph."
+  },
+  {
+    "question": "How many more units must the least-selling toy sell to match the third best-selling toy?",
+    "choices": [
+      "7,387,723",
+      "7,837,327",
+      "7,837,732",
+      "7,783,732",
+      "7,378,372"
+    ],
+    "answer": "7,837,327",
+    "subject": "Numerical Ability",
+    "subtopic": "Data Interpretation",
+    "explanation": "Find the difference between the third highest category and the lowest-selling category."
+  },
+  {
+    "question": "Who is NOT considered a relative up to third degree of consanguinity?",
+    "choices": [
+      "bilas",
+      "kumpare",
+      "balae",
+      "a and c only",
+      "all"
+    ],
+    "answer": "all",
+    "subject": "General Knowledge",
+    "subtopic": "Philippine Law",
+    "explanation": "Bilas, kumpare, and balae are relations by affinity or social ties, not consanguinity. Therefore none are included."
+  },
+  {
+    "question": "Which is NOT true about taxation?",
+    "choices": [
+      "Enforced contribution",
+      "Has exemptions",
+      "Progressive",
+      "Involuntary",
+      "Used only for debts"
+    ],
+    "answer": "Used only for debts",
+    "subject": "General Knowledge",
+    "subtopic": "Taxation",
+    "explanation": "Taxes fund multiple government functions, not just debt repayment. Thus this statement is incorrect."
+  },
+  {
+    "question": "Executive power is vested under which provision?",
+    "choices": [
+      "Article VI",
+      "Article IV",
+      "Article VII Section 1",
+      "Article V",
+      "Article I"
+    ],
+    "answer": "Article VII Section 1",
+    "subject": "General Knowledge",
+    "subtopic": "Constitution",
+    "explanation": "The 1987 Philippine Constitution states that executive power is vested in the President under Article VII Section 1."
+  },
+  {
+    "question": "Requirement to become Supreme Court member?",
+    "choices": [
+      "Not a degree holder",
+      "Naturalized citizen",
+      "Not a bar member",
+      "15 years judge or law practice",
+      "10 years Court of Appeals"
+    ],
+    "answer": "15 years judge or law practice",
+    "subject": "General Knowledge",
+    "subtopic": "Constitution",
+    "explanation": "The Constitution requires at least 15 years of legal experience in practice or judiciary."
+  },
+  {
+    "question": "Which is part of right to privacy?",
+    "choices": [
+      "Protection from illegal searches",
+      "Right to bail",
+      "No cruel punishment",
+      "Right against self-incrimination",
+      "Right to remain silent"
+    ],
+    "answer": "Protection from illegal searches",
+    "subject": "General Knowledge",
+    "subtopic": "Rights",
+    "explanation": "Privacy rights include protection against unreasonable searches and seizures."
+  },
+  {
+    "question": "Habeas corpus may be suspended under?",
+    "choices": [
+      "Article II",
+      "Article I",
+      "Article IV",
+      "Article III Section 15",
+      "Article III Section 14"
+    ],
+    "answer": "Article III Section 15",
+    "subject": "General Knowledge",
+    "subtopic": "Constitution",
+    "explanation": "Suspension is allowed during invasion or rebellion under Article III Section 15."
+  },
+  {
+    "question": "Who is NOT listed as public employee in RA 6713?",
+    "choices": [
+      "Temporary employees",
+      "Agency personnel",
+      "Military personnel",
+      "Police personnel",
+      "Appointive officials"
+    ],
+    "answer": "Agency personnel",
+    "subject": "General Knowledge",
+    "subtopic": "Law",
+    "explanation": "Agency personnel (contractual/outsourced) are not considered government employees under RA 6713."
+  },
+  {
+    "question": "Freedom of ______ shall not be abridged.",
+    "choices": [
+      "right to bail",
+      "freedom to rally",
+      "freedom of speech",
+      "right to education",
+      "right to law"
+    ],
+    "answer": "freedom of speech",
+    "subject": "General Knowledge",
+    "subtopic": "Constitution",
+    "explanation": "The Constitution guarantees freedom of speech, expression, and the press."
+  },
+  {
+    "question": "Which is NOT a constitutional classification?",
+    "choices": [
+      "Constitution of Solemnity",
+      "Constitution of Liberty",
+      "Constitution of Universality",
+      "Constitution of Institution",
+      "None"
+    ],
+    "answer": "Constitution of Solemnity",
+    "subject": "General Knowledge",
+    "subtopic": "Constitution",
+    "explanation": "This term is not formally recognized as a classification in constitutional law."
+  },
+  {
+    "question": "The Philippines is a ______ and ______ state.",
+    "choices": [
+      "free-independent",
+      "presidential-independent",
+      "monarchial-free",
+      "parliamentary-democratic",
+      "democratic-republican"
+    ],
+    "answer": "democratic-republican",
+    "subject": "General Knowledge",
+    "subtopic": "Constitution",
+    "explanation": "The Constitution defines the Philippines as a democratic and republican state."
+  },
+  {
+    "question": "Who initiates impeachment cases?",
+    "choices": [
+      "Ombudsman",
+      "Senate",
+      "Sandiganbayan",
+      "House of Representatives",
+      "Supreme Court"
+    ],
+    "answer": "House of Representatives",
+    "subject": "General Knowledge",
+    "subtopic": "Government",
+    "explanation": "Only the House has the power to initiate impeachment proceedings."
+  },
+  {
+    "question": "Government agencies must provide?",
+    "choices": [
+      "Performance targets",
+      "Directory",
+      "Action officers",
+      "Fees list",
+      "Service guides"
+    ],
+    "answer": "Service guides",
+    "subject": "General Knowledge",
+    "subtopic": "Public Service",
+    "explanation": "Under citizen charter principles, agencies must publish service guides."
+  },
+  {
+    "question": "Reducing a sentence to lesser penalty is called?",
+    "choices": [
+      "Commutation",
+      "Clemency",
+      "Veto",
+      "Pardon",
+      "Reprieve"
+    ],
+    "answer": "Commutation",
+    "subject": "General Knowledge",
+    "subtopic": "Law",
+    "explanation": "Commutation reduces the severity of a sentence."
+  },
+  {
+    "question": "Minimum age for Vice President?",
+    "choices": [
+      "33",
+      "35",
+      "38",
+      "40",
+      "45"
+    ],
+    "answer": "35",
+    "subject": "General Knowledge",
+    "subtopic": "Constitution",
+    "explanation": "The Constitution requires the Vice President to be at least 35 years old."
+  },
+  {
+    "question": "Vote expressing choice for or against law is called?",
+    "choices": [
+      "Initiative",
+      "Recall",
+      "Plebiscite",
+      "Election",
+      "Referendum"
+    ],
+    "answer": "Referendum",
+    "subject": "General Knowledge",
+    "subtopic": "Civics",
+    "explanation": "A referendum allows citizens to approve or reject a law directly."
+  }
+]

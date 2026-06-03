@@ -1,0 +1,1283 @@
+[
+  {
+    "id": "213",
+    "subject": "Analytical",
+    "subtopic": "Logic",
+    "question": "gerrymander : divide :: filibuster : ______",
+    "choices": [
+      "bend",
+      "punish",
+      "delay",
+      "rush"
+    ],
+    "answer": "delay",
+    "explanation": "This is an analogy question. The relationship between the first pair is applied to the second pair. 'delay' correctly maintains that relationship."
+  },
+  {
+    "id": "217",
+    "subject": "Analytical",
+    "subtopic": "Logic",
+    "question": "diamond : baseball :: court : ______",
+    "choices": [
+      "poker",
+      "jury",
+      "grass",
+      "squash"
+    ],
+    "answer": "squash",
+    "explanation": "This is an analogy question. The relationship between the first pair is applied to the second pair. 'squash' correctly maintains that relationship."
+  },
+  {
+    "id": "218",
+    "subject": "Analytical",
+    "subtopic": "Logic",
+    "question": "quixotic : pragmatic :: murky : ______",
+    "choices": [
+      "rapid",
+      "cloudy",
+      "clear",
+      "friendly"
+    ],
+    "answer": "clear",
+    "explanation": "This is an analogy question. The relationship between the first pair is applied to the second pair. 'clear' correctly maintains that relationship."
+  },
+  {
+    "id": "220",
+    "subject": "Analytical",
+    "subtopic": "Logic",
+    "question": "nymph : ______ :: seraphim : angel",
+    "choices": [
+      "maiden",
+      "sinner",
+      "candle",
+      "priest"
+    ],
+    "answer": "maiden",
+    "explanation": "This is an analogy question. The relationship between the first pair is applied to the second pair. 'maiden' correctly maintains that relationship."
+  },
+  {
+    "id": "222",
+    "subject": "Analytical",
+    "subtopic": "Logic",
+    "question": "jibe : praise :: ______ : enlighten",
+    "choices": [
+      "jib",
+      "delude",
+      "worship",
+      "wed"
+    ],
+    "answer": "delude",
+    "explanation": "This is an analogy question. The relationship between the first pair is applied to the second pair. 'delude' correctly maintains that relationship."
+  },
+  {
+    "id": "223",
+    "subject": "Analytical",
+    "subtopic": "Logic",
+    "question": "marshal : prisoner :: principal : ______",
+    "choices": [
+      "teacher",
+      "president",
+      "doctrine",
+      "student"
+    ],
+    "answer": "student",
+    "explanation": "This is an analogy question. The relationship between the first pair is applied to the second pair. 'student' correctly maintains that relationship."
+  },
+  {
+    "id": "224",
+    "subject": "Analytical",
+    "subtopic": "Logic",
+    "question": "fecund : infertile :: ______ : fleet",
+    "choices": [
+      "rapid",
+      "slow",
+      "fertilizer",
+      "dam"
+    ],
+    "answer": "slow",
+    "explanation": "This is an analogy question. The relationship between the first pair is applied to the second pair. 'slow' correctly maintains that relationship."
+  },
+  {
+    "id": "301",
+    "subject": "Analytical",
+    "subtopic": "Data Interpretation",
+    "question": "If the number of Chinese Insurance stocks represented 3.5% of all Insurance securities, approximately how many Insurance bonds were Chinese?",
+    "choices": [
+      "9,200,000",
+      "9,500,000",
+      "10,800,000",
+      "910,000",
+      "1,080,000"
+    ],
+    "answer": "9,500,000",
+    "explanation": "The correct answer is '9,500,000' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "302",
+    "subject": "Analytical",
+    "subtopic": "Data Interpretation",
+    "question": "What was the ratio of investment in 1997 over the investment in 1992?",
+    "choices": [
+      "5.50",
+      "5.36",
+      "5.64",
+      "5.75"
+    ],
+    "answer": "5.50",
+    "explanation": "This question requires interpreting data or performing calculations. The correct answer '5.50' comes from properly analyzing the given values."
+  },
+  {
+    "id": "303",
+    "subject": "Analytical",
+    "subtopic": "Data Interpretation",
+    "question": "What was the absolute difference in the FDI to Philippines in between 1996 and 1997?",
+    "choices": [
+      "7.29",
+      "7.13",
+      "8.13",
+      "None of these"
+    ],
+    "answer": "7.13",
+    "explanation": "This question requires interpreting data or performing calculations. The correct answer '7.13' comes from properly analyzing the given values."
+  },
+  {
+    "id": "304",
+    "subject": "Analytical",
+    "subtopic": "Data Interpretation",
+    "question": "If Philippine FDI from OPEC countries was proportionately the same in 1992 and 1997 and the FDI in 1992 was Euro 2 million, what was the amount in 1997?",
+    "choices": [
+      "11",
+      "10.72",
+      "11.28",
+      "11.5"
+    ],
+    "answer": "11",
+    "explanation": "The correct answer is '11' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "305",
+    "subject": "Analytical",
+    "subtopic": "Data Interpretation",
+    "question": "Which year exhibited the highest growth in FDI in Philippines over the period shown?",
+    "choices": [
+      "1993",
+      "1994",
+      "1995",
+      "1996"
+    ],
+    "answer": "1996",
+    "explanation": "The correct answer is '1996' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "306",
+    "subject": "Analytical",
+    "subtopic": "Data Interpretation",
+    "question": "What was Philippines' total FDI for the period shown in the figure?",
+    "choices": [
+      "93.82",
+      "93.22",
+      "93.19",
+      "None of these"
+    ],
+    "answer": "93.82",
+    "explanation": "The correct answer is '93.82' based on applying the appropriate reasoning method."
+  },
+  {
+    "id": "307",
+    "subject": "Analytical",
+    "subtopic": "Data Interpretation",
+    "question": "What are the average marks obtained by the student in all the periodical exams during the last session?",
+    "choices": [
+      "373",
+      "379",
+      "381",
+      "385"
+    ],
+    "answer": "381",
+    "explanation": "This question requires interpreting data or performing calculations. The correct answer '381' comes from properly analyzing the given values."
+  },
+  {
+    "id": "308",
+    "subject": "Analytical",
+    "subtopic": "Data Interpretation",
+    "question": "In which periodical exams is there a fall in percentage of marks compared to the previous periodical exams?",
+    "choices": [
+      "None",
+      "June 2001",
+      "Oct 2001",
+      "Feb 2002"
+    ],
+    "answer": "None",
+    "explanation": "This question requires interpreting data or performing calculations. The correct answer 'None' comes from properly analyzing the given values."
+  },
+  {
+    "id": "309",
+    "subject": "Analytical",
+    "subtopic": "Data Interpretation",
+    "question": "The total number of marks obtained in Feb. 02 is what percent of the total marks obtained in April 01?",
+    "choices": [
+      "110%",
+      "112.5%",
+      "115%",
+      "116.5%"
+    ],
+    "answer": "112.5%",
+    "explanation": "This question requires interpreting data or performing calculations. The correct answer '112.5%' comes from properly analyzing the given values."
+  },
+  {
+    "id": "351",
+    "subject": "Analytical",
+    "subtopic": "Analogy",
+    "question": "Computer : fqprxvht :: Language : ?",
+    "choices": [
+      "ocqixcig",
+      "oxpixdig",
+      "ocqicyig",
+      "ocqixcjg"
+    ],
+    "answer": "ocqixcjg",
+    "explanation": "This is an analogy question. The relationship between the first pair is applied to the second pair. 'ocqixcjg' correctly maintains that relationship."
+  },
+  {
+    "id": "352",
+    "subject": "Analytical",
+    "subtopic": "Analogy",
+    "question": "Genuine : Authentic :: Mirage : _____",
+    "choices": [
+      "Illusion",
+      "Image",
+      "Hideout",
+      "Reflection"
+    ],
+    "answer": "Illusion",
+    "explanation": "This is an analogy question. The relationship between the first pair is applied to the second pair. 'Illusion' correctly maintains that relationship."
+  },
+  {
+    "id": "353",
+    "subject": "Analytical",
+    "subtopic": "Analogy",
+    "question": "SECLUSION : HERMIT",
+    "choices": [
+      "wealth : embezzler",
+      "ambition : philanthropist",
+      "domination : athlete",
+      "turpitude : introvert",
+      "injustice : lawyer"
+    ],
+    "answer": "wealth : embezzler",
+    "explanation": "This is an analogy question. The relationship between the first pair is applied to the second pair. 'wealth : embezzler' correctly maintains that relationship."
+  },
+  {
+    "id": "354",
+    "subject": "Analytical",
+    "subtopic": "Analogy",
+    "question": "philanthropist : munificence",
+    "choices": [
+      "aristocrat : gratitude",
+      "skeptic : disbelief",
+      "symptom : treatment",
+      "anomaly : plausibility",
+      "cynic : melancholy"
+    ],
+    "answer": "skeptic : disbelief",
+    "explanation": "This is an analogy question. The relationship between the first pair is applied to the second pair. 'skeptic : disbelief' correctly maintains that relationship."
+  },
+  {
+    "id": "355",
+    "subject": "Analytical",
+    "subtopic": "Analogy",
+    "question": "Vague : Nebulous",
+    "choices": [
+      "spectacular : legitimate",
+      "mundane : commonplace",
+      "magical : impressive",
+      "steep : shallow"
+    ],
+    "answer": "mundane : commonplace",
+    "explanation": "This is an analogy question. The relationship between the first pair is applied to the second pair. 'mundane : commonplace' correctly maintains that relationship."
+  },
+  {
+    "id": "356",
+    "subject": "Analytical",
+    "subtopic": "Analogy",
+    "question": "Diaphanous : Opaque",
+    "choices": [
+      "dishevelled : messy",
+      "disconsolate : happy",
+      "disrespectful : injurious",
+      "disallow : reject",
+      "distraught : calm"
+    ],
+    "answer": "distraught : calm",
+    "explanation": "This is an analogy question. The relationship between the first pair is applied to the second pair. 'distraught : calm' correctly maintains that relationship."
+  },
+  {
+    "id": "357",
+    "subject": "Analytical",
+    "subtopic": "Analogy",
+    "question": "FRAME : PICTURE",
+    "choices": [
+      "display : museum",
+      "shelf : refrigerator",
+      "mechanic : electrician",
+      "nail : hammer",
+      "fence : backyard"
+    ],
+    "answer": "fence : backyard",
+    "explanation": "This is an analogy question. The relationship between the first pair is applied to the second pair. 'fence : backyard' correctly maintains that relationship."
+  },
+  {
+    "id": "358",
+    "subject": "Analytical",
+    "subtopic": "Analogy",
+    "question": "SEARCH : FIND",
+    "choices": [
+      "sleep : wake",
+      "explore : discover",
+      "draw : paint",
+      "think : relate",
+      "walk : run"
+    ],
+    "answer": "explore : discover",
+    "explanation": "This is an analogy question. The relationship between the first pair is applied to the second pair. 'explore : discover' correctly maintains that relationship."
+  },
+  {
+    "id": "359",
+    "subject": "Analytical",
+    "subtopic": "Analogy",
+    "question": "PHARMACY : DRUGS",
+    "choices": [
+      "mall : store",
+      "doctor : medicine",
+      "bakery : bread",
+      "supermarket : discount store",
+      "toys : games"
+    ],
+    "answer": "bakery : bread",
+    "explanation": "This is an analogy question. The relationship between the first pair is applied to the second pair. 'bakery : bread' correctly maintains that relationship."
+  },
+  {
+    "id": "360",
+    "subject": "Analytical",
+    "subtopic": "Analogy",
+    "question": "LAYER : TIER",
+    "choices": [
+      "section : segment",
+      "dais : speaker",
+      "curtain : stage",
+      "chapter : verse",
+      "cotton : bale"
+    ],
+    "answer": "section : segment",
+    "explanation": "This is an analogy question. The relationship between the first pair is applied to the second pair. 'section : segment' correctly maintains that relationship."
+  },
+  {
+    "id": "361",
+    "subject": "Analytical",
+    "subtopic": "Logical Reasoning",
+    "question": "Children are in pursuit of a dog whose leash has broken. James is directly behind the dog. Ruby is behind James. Rachel is behind Ruby. Max is ahead of the dog walking in the opposite direction. After turning around, Max runs behind Ruby while James and Ruby run alongside the dog. Which child is directly behind the dog?",
+    "choices": [
+      "James",
+      "Ruby",
+      "Rachel",
+      "Max"
+    ],
+    "answer": "Max",
+    "explanation": "This question tests logical reasoning. Based on the given information, the correct conclusion is 'Max'."
+  },
+  {
+    "id": "362",
+    "subject": "Analytical",
+    "subtopic": "Logical Reasoning",
+    "question": "Tom puts on his socks before shoes. He puts on his shirt before jacket. Tom puts on his shoes before shirt. If the first two are true, the third is?",
+    "choices": [
+      "true",
+      "false",
+      "uncertain"
+    ],
+    "answer": "false",
+    "explanation": "This question tests logical reasoning. Based on the given information, the correct conclusion is 'false'."
+  },
+  {
+    "id": "363",
+    "subject": "Analytical",
+    "subtopic": "Logical Reasoning",
+    "question": "Tanya is older than Eric. Cliff is older than Tanya. Eric is older than Cliff. If the first two statements are true, the third is?",
+    "choices": [
+      "true",
+      "false",
+      "uncertain"
+    ],
+    "answer": "uncertain",
+    "explanation": "This question tests logical reasoning. Based on the given information, the correct conclusion is 'uncertain'."
+  },
+  {
+    "id": "364",
+    "subject": "Analytical",
+    "subtopic": "Logical Reasoning",
+    "question": "Statement: A nursing conference session attracted many participants. Assumptions: I. Media is always positive. II. Service sector is well managed. III. People did not expect such positive response.",
+    "choices": [
+      "I, II, III",
+      "I and III",
+      "I and II",
+      "II and III",
+      "III only"
+    ],
+    "answer": "I and III",
+    "explanation": "This question tests logical reasoning. Based on the given information, the correct conclusion is 'I and III'."
+  },
+  {
+    "id": "365",
+    "subject": "Analytical",
+    "subtopic": "Logical Reasoning",
+    "question": "Cable TV is a luxury. All luxuries are needless expenditures. Cellular phone is not a luxury. Dining in five-star hotel is a needless expenditure. Which is correct?",
+    "choices": [
+      "Cellphone is not needless expenditure",
+      "Cable TV is needless expenditure",
+      "Cable TV is not needless expenditure",
+      "Dining is not a luxury",
+      "Dining is a luxury"
+    ],
+    "answer": "Cable TV is needless expenditure",
+    "explanation": "This question tests logical reasoning. Based on the given information, the correct conclusion is 'Cable TV is needless expenditure'."
+  },
+  {
+    "id": "366",
+    "subject": "Analytical",
+    "subtopic": "Logical Reasoning",
+    "question": "A factory worker has five children. No one else has five children. What is correct?",
+    "choices": [
+      "All workers have five children",
+      "Everyone has children",
+      "Some have more than five",
+      "Only one worker has exactly five children"
+    ],
+    "answer": "Only one worker has exactly five children",
+    "explanation": "This question tests logical reasoning. Based on the given information, the correct conclusion is 'Only one worker has exactly five children'."
+  },
+  {
+    "id": "367",
+    "subject": "Analytical",
+    "subtopic": "Logical Reasoning",
+    "question": "Television makes people feel vulnerable by convincing them crime is likely and encouraging passivity.",
+    "choices": [
+      "TV promotes crime",
+      "TV viewers are more likely victims",
+      "People should not watch TV",
+      "TV promotes helpless vulnerability"
+    ],
+    "answer": "TV promotes helpless vulnerability",
+    "explanation": "This question tests logical reasoning. Based on the given information, the correct conclusion is 'TV promotes helpless vulnerability'."
+  },
+  {
+    "id": "368",
+    "subject": "Analytical",
+    "subtopic": "Logical Reasoning",
+    "question": "Government plans to introduce private universities with strict rules. What assumption follows?",
+    "choices": [
+      "There are already private universities",
+      "Demand for universities is increasing",
+      "Rules can be issued without parliament",
+      "Government controls private sector fully",
+      "Without rules fees will be very high"
+    ],
+    "answer": "Demand for universities is increasing",
+    "explanation": "This question tests logical reasoning. Based on the given information, the correct conclusion is 'Demand for universities is increasing'."
+  },
+  {
+    "id": "369",
+    "subject": "Analytical",
+    "subtopic": "Logical Reasoning",
+    "question": "All tulips are white. All pansies are yellow. All flowers are either white or yellow.",
+    "choices": [
+      "true",
+      "false",
+      "uncertain"
+    ],
+    "answer": "uncertain",
+    "explanation": "This question tests logical reasoning. Based on the given information, the correct conclusion is 'uncertain'."
+  },
+  {
+    "id": "370",
+    "subject": "Analytical",
+    "subtopic": "Logical Reasoning",
+    "question": "Three pencils cost same as two erasers. Four erasers cost same as one ruler. Pencils are more expensive than rulers.",
+    "choices": [
+      "true",
+      "false",
+      "uncertain"
+    ],
+    "answer": "false",
+    "explanation": "This question tests logical reasoning. Based on the given information, the correct conclusion is 'false'."
+  },
+  {
+    "id": "391",
+    "subject": "Analytical",
+    "subtopic": "Paragraph Organization",
+    "question": "A. Diversify funds into investments. B. Expand money into different investments. C. A wise investor must not put all eggs in one basket. D. Consider risks involved. What is the correct sequence?",
+    "choices": [
+      "CBAD",
+      "CBDA",
+      "CDAB",
+      "CDBA"
+    ],
+    "answer": "CDAB",
+    "explanation": "This question checks logical flow. The sequence 'CDAB' correctly organizes the ideas into a meaningful paragraph."
+  },
+  {
+    "id": "392",
+    "subject": "Analytical",
+    "subtopic": "Paragraph Organization",
+    "question": "A. Social media presence is vital. B. Many people have blogs. C. Blogs help in promotion. D. Blogs serve as online offices. What is the correct sequence?",
+    "choices": [
+      "BDAC",
+      "BADC",
+      "BACD",
+      "BDCA"
+    ],
+    "answer": "BADC",
+    "explanation": "This question checks logical flow. The sequence 'BADC' correctly organizes the ideas into a meaningful paragraph."
+  },
+  {
+    "id": "393",
+    "subject": "Analytical",
+    "subtopic": "Paragraph Organization",
+    "question": "A. Register a domain name. B. Design layout. C. Add content and social presence. D. Choose hosting provider. What is the correct sequence?",
+    "choices": [
+      "ABCD",
+      "ADBC",
+      "ACBD",
+      "ADCB"
+    ],
+    "answer": "ADBC",
+    "explanation": "This question checks logical flow. The sequence 'ADBC' correctly organizes the ideas into a meaningful paragraph."
+  },
+  {
+    "id": "394",
+    "subject": "Analytical",
+    "subtopic": "Paragraph Organization",
+    "question": "A. Speaking English daily helps. B. Watching English shows helps. C. Reading articles helps. D. There are many ways to improve English. What is the correct sequence?",
+    "choices": [
+      "DCBA",
+      "DACB",
+      "DABC",
+      "DCAB"
+    ],
+    "answer": "DCBA",
+    "explanation": "This question checks logical flow. The sequence 'DCBA' correctly organizes the ideas into a meaningful paragraph."
+  },
+  {
+    "id": "395",
+    "subject": "Analytical",
+    "subtopic": "Paragraph Organization",
+    "question": "A. Some people are unsure of career. B. Choosing a course is hard. C. Some pursue dreams early. D. Destiny is a choice. What is the correct sequence?",
+    "choices": [
+      "BDAC",
+      "BCDA",
+      "BADC",
+      "BCAD"
+    ],
+    "answer": "BCAD",
+    "explanation": "This question checks logical flow. The sequence 'BCAD' correctly organizes the ideas into a meaningful paragraph."
+  },
+  {
+    "id": "396",
+    "subject": "Analytical",
+    "subtopic": "Paragraph Organization",
+    "question": "A. Many innovations lack evaluation. B. Question if changes address real needs. C. Curriculum changes may be fads. D. Need innovations to fix miseducation. What is the correct sequence?",
+    "choices": [
+      "BACD",
+      "ACDB",
+      "ABCD",
+      "CBAD"
+    ],
+    "answer": "ACDB",
+    "explanation": "This question checks logical flow. The sequence 'ACDB' correctly organizes the ideas into a meaningful paragraph."
+  },
+  {
+    "id": "397",
+    "subject": "Analytical",
+    "subtopic": "Paragraph Organization",
+    "question": "A. Learning through trial and error. B. Cat experiment example. C. Thorndike's theory. D. Humans learn similarly. What is the correct sequence?",
+    "choices": [
+      "ACBD",
+      "BACD",
+      "ACDB",
+      "ABCD"
+    ],
+    "answer": "ACBD",
+    "explanation": "This question checks logical flow. The sequence 'ACBD' correctly organizes the ideas into a meaningful paragraph."
+  },
+  {
+    "id": "398",
+    "subject": "Analytical",
+    "subtopic": "Paragraph Organization",
+    "question": "A. Education system needs regional focus. B. Goals must adapt regionally. C. Methods must be improved. D. Need experimentation in teaching. What is the correct sequence?",
+    "choices": [
+      "ABCD",
+      "ABDC",
+      "BCAD",
+      "DABC"
+    ],
+    "answer": "ABCD",
+    "explanation": "This question checks logical flow. The sequence 'ABCD' correctly organizes the ideas into a meaningful paragraph."
+  },
+  {
+    "id": "399",
+    "subject": "Analytical",
+    "subtopic": "Paragraph Organization",
+    "question": "A. Religion focused on rituals before. B. Religion reduces fear. C. Religion provides meaning. D. Religion gives spiritual nourishment. What is the correct sequence?",
+    "choices": [
+      "ABCD",
+      "BACD",
+      "DBCA",
+      "CBAD"
+    ],
+    "answer": "BACD",
+    "explanation": "This question checks logical flow. The sequence 'BACD' correctly organizes the ideas into a meaningful paragraph."
+  },
+  {
+    "id": "400",
+    "subject": "Analytical",
+    "subtopic": "Paragraph Organization",
+    "question": "A. IDs and tickets required. B. Many Filipinos rejoiced. C. Immigration removed financial requirement. D. Bureau deserves credit. What is the correct sequence?",
+    "choices": [
+      "CBAD",
+      "CADB",
+      "CABD",
+      "CBDA"
+    ],
+    "answer": "CBDA",
+    "explanation": "This question checks logical flow. The sequence 'CBDA' correctly organizes the ideas into a meaningful paragraph."
+  },
+  {
+    "id": "401",
+    "subject": "Analytical",
+    "subtopic": "Paragraph Organization",
+    "question": "A. Helps get government job. B. Many take exam. C. Passing gives eligibility. D. Eligibility required. What is the correct sequence?",
+    "choices": [
+      "DCBA",
+      "DBAC",
+      "DBCA",
+      "DCAB"
+    ],
+    "answer": "DBCA",
+    "explanation": "This question checks logical flow. The sequence 'DBCA' correctly organizes the ideas into a meaningful paragraph."
+  },
+  {
+    "id": "402",
+    "subject": "Analytical",
+    "subtopic": "Paragraph Organization",
+    "question": "A. Rush passport takes 7 days. B. Getting passport faster now. C. Now takes 10 days. D. Before took a month. What is the correct sequence?",
+    "choices": [
+      "BCAD",
+      "BDCA",
+      "BADC",
+      "BACD"
+    ],
+    "answer": "BDCA",
+    "explanation": "This question checks logical flow. The sequence 'BDCA' correctly organizes the ideas into a meaningful paragraph."
+  },
+  {
+    "id": "403",
+    "subject": "Analytical",
+    "subtopic": "Paragraph Organization",
+    "question": "A. Facebook is top social network. B. Messaging apps are rising. C. Facebook bought Instagram. D. Facebook acquired WhatsApp. What is the correct sequence?",
+    "choices": [
+      "ACBD",
+      "ABCD",
+      "ADCB",
+      "ADBC"
+    ],
+    "answer": "ACBD",
+    "explanation": "This question checks logical flow. The sequence 'ACBD' correctly organizes the ideas into a meaningful paragraph."
+  },
+  {
+    "id": "404",
+    "subject": "Analytical",
+    "subtopic": "Paragraph Organization",
+    "question": "A. Installment plans available. B. Pay in full to avoid debt. C. Credit cards useful. D. Interest accumulates. What is the correct sequence?",
+    "choices": [
+      "CDBA",
+      "CABD",
+      "CDAB",
+      "CADB"
+    ],
+    "answer": "CADB",
+    "explanation": "This question checks logical flow. The sequence 'CADB' correctly organizes the ideas into a meaningful paragraph."
+  },
+  {
+    "id": "405",
+    "subject": "Analytical",
+    "subtopic": "Paragraph Organization",
+    "question": "A. Government alone cannot handle education. B. Education act involves all sectors. C. Private schools needed. D. Act strengthens DepEd. What is the correct sequence?",
+    "choices": [
+      "BACD",
+      "ABCD",
+      "DBCA",
+      "CADB"
+    ],
+    "answer": "BACD",
+    "explanation": "This question checks logical flow. The sequence 'BACD' correctly organizes the ideas into a meaningful paragraph."
+  },
+  {
+    "question": "If principal is to teacher, then marshal is to ______.",
+    "choices": [
+      "law",
+      "prisoner",
+      "jail",
+      "penalty",
+      "crime"
+    ],
+    "answer": "prisoner",
+    "subject": "Analytical Ability",
+    "subtopic": "Analogy",
+    "explanation": "A principal supervises teachers, while a marshal manages or oversees prisoners. The relationship is authority over individuals."
+  },
+  {
+    "question": "If summit is to bottom, then bourgeois is to ______.",
+    "choices": [
+      "rich",
+      "ideal",
+      "authoritarian",
+      "proletarian",
+      "vulgar"
+    ],
+    "answer": "proletarian",
+    "subject": "Analytical Ability",
+    "subtopic": "Analogy",
+    "explanation": "'Summit' and 'bottom' are opposites. Similarly, 'bourgeois' (middle class) contrasts with 'proletarian' (working class)."
+  },
+  {
+    "question": "If murky is to clear, then quixotic is to ______.",
+    "choices": [
+      "pragmatic",
+      "idealistic",
+      "irrational",
+      "specific",
+      "intentional"
+    ],
+    "answer": "pragmatic",
+    "subject": "Analytical Ability",
+    "subtopic": "Analogy",
+    "explanation": "'Murky' is the opposite of 'clear'. 'Quixotic' means overly idealistic or unrealistic, so its opposite is 'pragmatic' (practical)."
+  },
+  {
+    "question": "Atom is to molecule as cell is to ______.",
+    "choices": [
+      "nucleus",
+      "battery",
+      "matter",
+      "virus",
+      "tissue"
+    ],
+    "answer": "tissue",
+    "subject": "Analytical Ability",
+    "subtopic": "Analogy",
+    "explanation": "Atoms combine to form molecules. Similarly, cells combine to form tissues. This is a part-to-whole relationship."
+  },
+  {
+    "question": "Circle is to sphere as square is to ______.",
+    "choices": [
+      "diameter",
+      "cube",
+      "area",
+      "length",
+      "depth"
+    ],
+    "answer": "cube",
+    "subject": "Analytical Ability",
+    "subtopic": "Analogy",
+    "explanation": "A circle is a 2D shape, and a sphere is its 3D form. Similarly, a square is 2D, and a cube is its 3D version."
+  },
+  {
+    "question": "Quill : Porcupine :: ______ : ______.",
+    "choices": [
+      "Blade : Evergreen",
+      "Wallaby : Scale",
+      "Frond : Palm",
+      "Hippopotamus : Tusk",
+      "Hedgehog : Gills"
+    ],
+    "answer": "Frond : Palm",
+    "subject": "Analytical Ability",
+    "subtopic": "Analogy",
+    "explanation": "A quill is a part of a porcupine. A frond is a part of a palm. The relationship is 'part of something.'"
+  },
+  {
+    "question": "Uneasy : Anxious :: ______ : ______",
+    "choices": [
+      "Strong : Feeble",
+      "Wary : Placid",
+      "Admirable : Scornful",
+      "Self-centered : Egocentric",
+      "Boastful : Vaunting"
+    ],
+    "answer": "Self-centered : Egocentric",
+    "subject": "Analytical Ability",
+    "subtopic": "Analogy",
+    "explanation": "'Uneasy' and 'anxious' are synonyms. Similarly, 'self-centered' and 'egocentric' mean the same thing."
+  },
+  {
+    "question": "Morose : Jubilant :: ______ : ______.",
+    "choices": [
+      "Joyous : Bubbly",
+      "Pretentious : Conspicuous",
+      "Terrified : Petrified",
+      "Lavish : Simple",
+      "Modest : Humble"
+    ],
+    "answer": "Lavish : Simple",
+    "subject": "Analytical Ability",
+    "subtopic": "Analogy",
+    "explanation": "'Morose' (sad) and 'jubilant' (happy) are opposites. Similarly, 'lavish' (extravagant) contrasts with 'simple'."
+  },
+  {
+    "question": "Dull : Jejune :: ______ : ______.",
+    "choices": [
+      "Forget : Remember",
+      "Proud : Shy",
+      "Light : Heavy",
+      "Affluent : Horrible",
+      "Quiet : Taciturn"
+    ],
+    "answer": "Quiet : Taciturn",
+    "subject": "Analytical Ability",
+    "subtopic": "Analogy",
+    "explanation": "'Dull' and 'jejune' are synonyms. Similarly, 'quiet' and 'taciturn' (reserved, not talkative) are synonymous."
+  },
+  {
+    "question": "Plough : Farmer :: ______ : ______.",
+    "choices": [
+      "Silk : Author",
+      "Harrow : Gardener",
+      "Book : Mark",
+      "Wood : Saw",
+      "Warrior : Enemy"
+    ],
+    "answer": "Harrow : Gardener",
+    "subject": "Analytical Ability",
+    "subtopic": "Analogy",
+    "explanation": "A farmer uses a plough as a tool. Similarly, a gardener uses a harrow. The relationship is 'tool used by a person.'"
+  },
+  {
+    "question": "If 20/100 is to 20%, then 9/15 is to ______.",
+    "choices": [
+      "0.6",
+      "0.22",
+      "0.30",
+      "0.8",
+      "90"
+    ],
+    "answer": "0.6",
+    "subject": "Analytical Ability",
+    "subtopic": "Numerical Pattern",
+    "explanation": "20/100 equals 20%. Similarly, 9/15 simplified equals 0.6. The pattern is converting fractions to decimal equivalents."
+  },
+  {
+    "question": "Choose which fraction should be the last digit in the pattern: 5/2, 6/2, 7/3, 7/13/20, 7/9/10, ______.",
+    "choices": [
+      "7/15/20",
+      "7/18/25",
+      "7/31/40",
+      "7/33/50",
+      "7/1/2"
+    ],
+    "answer": "7/15/20",
+    "subject": "Analytical Ability",
+    "subtopic": "Numerical Pattern",
+    "explanation": "The pattern shows increasing numerators and adjusting denominators in fractional sequences. The progression leads to the next logical fraction 7/15/20 as continuation of structured fractional increase."
+  },
+  {
+    "question": "If 4 is to 9, then 25 is to ______.",
+    "choices": [
+      "36",
+      "38",
+      "42",
+      "46",
+      "50"
+    ],
+    "answer": "36",
+    "subject": "Analytical Ability",
+    "subtopic": "Number Pattern",
+    "explanation": "4 becomes 9 by adding 5 (or squaring 2 \u2192 3\u00b2). Similarly, 25 becomes 36 (5\u00b2 \u2192 6\u00b2). The pattern is next square progression."
+  },
+  {
+    "question": "Complete the pattern: V, VIII, XI, XIV, _____, XX.",
+    "choices": [
+      "VXII",
+      "XVII",
+      "IXV",
+      "XIX",
+      "XVI"
+    ],
+    "answer": "XVII",
+    "subject": "Analytical Ability",
+    "subtopic": "Sequence Pattern",
+    "explanation": "The pattern increases by +3 in Roman numerals: 5, 8, 11, 14, 17, 20 \u2192 XVII is 17."
+  },
+  {
+    "question": "In the sequence: U32, V29, _____, X23, Y20.",
+    "choices": [
+      "Z17",
+      "W23",
+      "Y29",
+      "Z26",
+      "W26"
+    ],
+    "answer": "W26",
+    "subject": "Analytical Ability",
+    "subtopic": "Sequence Pattern",
+    "explanation": "Letters move forward alphabetically (U \u2192 V \u2192 W \u2192 X \u2192 Y). Numbers decrease by 3 (32 \u2192 29 \u2192 26 \u2192 23 \u2192 20). Missing term is W26."
+  },
+  {
+    "question": "What is the next letter in the series: CNL, BLI, AJF, ZHC, ______?",
+    "choices": [
+      "XFY",
+      "XDY",
+      "XDZ",
+      "YFZ",
+      "YFA"
+    ],
+    "answer": "YFZ",
+    "subject": "Analytical Ability",
+    "subtopic": "Letter Pattern",
+    "explanation": "Each column follows a decreasing alphabet pattern. First letters: C, B, A, Z, Y. Second: N, L, J, H, F. Third: L, I, F, C, Z. Thus answer is YFZ."
+  },
+  {
+    "question": "If 11 is to 1331, then 9 is to ______?",
+    "choices": [
+      "729",
+      "991",
+      "897",
+      "979",
+      "789"
+    ],
+    "answer": "729",
+    "subject": "Analytical Ability",
+    "subtopic": "Number Pattern",
+    "explanation": "1331 = 11\u00b3. The pattern is cubing the number. Therefore, 9\u00b3 = 729."
+  },
+  {
+    "question": "ten : decimal :: ______ : ______.",
+    "choices": [
+      "five : quince",
+      "two : binary",
+      "four : quartet",
+      "eight : octagon",
+      "seven : septet"
+    ],
+    "answer": "two : binary",
+    "subject": "Analytical Ability",
+    "subtopic": "Analogy",
+    "explanation": "The decimal system is base-10. Binary is base-2. The relationship is number base systems."
+  },
+  {
+    "question": "In the sequence; ZA5, Y4B, XC6, W3D, ______, what is next?",
+    "choices": [
+      "VE5",
+      "E7V",
+      "E6V",
+      "V2E",
+      "VE7"
+    ],
+    "answer": "VE7",
+    "subject": "Analytical Ability",
+    "subtopic": "Mixed Pattern",
+    "explanation": "Letters move inward in alphabet (Z\u2192Y\u2192X\u2192W\u2192V). The trailing letter increases (A\u2192B\u2192C\u2192D\u2192E). Numbers alternate pattern and increase to 7. Hence VE7."
+  },
+  {
+    "question": "What is the next number in the series: 720, 720, 360, _____, 30, 6?",
+    "choices": [
+      "180",
+      "160",
+      "120",
+      "140",
+      "80"
+    ],
+    "answer": "120",
+    "subject": "Analytical Ability",
+    "subtopic": "Number Pattern",
+    "explanation": "The pattern divides consecutively: 720 \u00f71 = 720, \u00f72 = 360, \u00f73 = 120, \u00f74 = 30, \u00f75 = 6. So the missing term is 120."
+  },
+  {
+    "question": "Statement: No female teacher can play. Some female teachers are athletes.\nConclusions:\nI. Male athletes can play.\nII. Some athletes can play.",
+    "choices": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Either I or II follows",
+      "Neither I nor II follows",
+      "Both I and II follow"
+    ],
+    "answer": "Neither I nor II follows",
+    "subject": "Analytical Ability",
+    "subtopic": "Logical Reasoning",
+    "explanation": "The statement only talks about female teachers. It gives no information about male athletes (I) or whether athletes in general can play (II). Therefore, neither conclusion can be logically derived."
+  },
+  {
+    "question": "Statement: Jam is the only daughter of Leo and Sheena.\nConclusions:\nI. Leo and Sheena have one daughter.\nII. Jam has one brother.",
+    "choices": [
+      "Only conclusion I is valid",
+      "Only conclusion II is valid",
+      "Either I or II valid",
+      "Neither I nor II is valid",
+      "Both conclusions are valid"
+    ],
+    "answer": "Only conclusion I is valid",
+    "subject": "Analytical Ability",
+    "subtopic": "Logical Reasoning",
+    "explanation": "'Only daughter' clearly means they have exactly one daughter, so I is valid. There is no information about having a son, so II cannot be concluded."
+  },
+  {
+    "question": "Statement: Shannon is a frank man. Everything he says is accurate.\nAssumption:",
+    "choices": [
+      "Frank people include details",
+      "Frank people give straight facts",
+      "Frank people do not mean what they say",
+      "Frank people don\u2019t care about feelings",
+      "Frank people are naggers"
+    ],
+    "answer": "Frank people give straight facts",
+    "subject": "Analytical Ability",
+    "subtopic": "Logical Reasoning",
+    "explanation": "The statement links 'frank' with speaking accurate statements. This implies that frank people speak truthfully or directly, meaning they give straight facts."
+  },
+  {
+    "question": "Statement: It is not good to interfere in anyone\u2019s private matters.\nConclusions:\nI. Encroachment in personal life is bad.\nII. Professional detail does not come under private matters.",
+    "choices": [
+      "Only conclusion I is valid",
+      "Only conclusion II is valid",
+      "Either I or II valid",
+      "Neither I nor II is valid",
+      "Both conclusions are valid"
+    ],
+    "answer": "Only conclusion I is valid",
+    "subject": "Analytical Ability",
+    "subtopic": "Logical Reasoning",
+    "explanation": "Conclusion I restates the statement in different words, making it valid. Conclusion II introduces unrelated information not mentioned in the statement."
+  },
+  {
+    "question": "Statement: Having a Netflix subscription is a luxury. All luxuries are needless expenditures. Having a mobile phone is not a luxury.\nWhich is correct?",
+    "choices": [
+      "Subscribing to Netflix is not needless",
+      "Dining is not a luxury",
+      "Having a mobile phone is not needless",
+      "Needless expenditures exclude fine dining",
+      "Having a mobile phone is a luxury"
+    ],
+    "answer": "Having a mobile phone is not needless",
+    "subject": "Analytical Ability",
+    "subtopic": "Logical Reasoning",
+    "explanation": "If all luxuries are needless expenditures, and mobile phones are not luxuries, then they are not part of needless expenditures. This is a logical contraposition."
+  },
+  {
+    "question": "Statement: Unemployment allowance should be given to Filipinos aged 18\u201321.\nAssumptions:\nI. There are unemployed youths needing support.\nII. Government has enough funds.",
+    "choices": [
+      "Only I is implicit",
+      "Only II is implicit",
+      "Either I or II",
+      "Neither I nor II",
+      "Both I and II"
+    ],
+    "answer": "Only I is implicit",
+    "subject": "Analytical Ability",
+    "subtopic": "Logical Reasoning",
+    "explanation": "The proposal assumes unemployed youth need support (I). It does not assume government funding capability (II), which is a separate consideration."
+  },
+  {
+    "question": "Statement: A new camera can take perfect photos even in bad weather.\nConclusions:\nI. No other company makes such cameras.\nII. Anyone can take perfect shots with it.",
+    "choices": [
+      "Only I is valid",
+      "Only II is valid",
+      "Either I or II",
+      "Neither I nor II",
+      "Both I and II"
+    ],
+    "answer": "Neither I nor II is valid",
+    "subject": "Analytical Ability",
+    "subtopic": "Logical Reasoning",
+    "explanation": "The statement does not claim uniqueness (I) nor suggest that skill is irrelevant (II). Both are unsupported assumptions."
+  },
+  {
+    "question": "Statement: Quality education is expensive. The Philippines spends a lot.\nConclusions:\nI. Only funding improves education.\nII. Quality will improve soon.",
+    "choices": [
+      "Only I is valid",
+      "Only II is valid",
+      "Either I or II",
+      "Neither I nor II",
+      "Both I and II"
+    ],
+    "answer": "Neither I nor II is valid",
+    "subject": "Analytical Ability",
+    "subtopic": "Logical Reasoning",
+    "explanation": "Spending money does not automatically ensure improvement (I), nor does the statement guarantee future results (II). Both are unsupported."
+  },
+  {
+    "question": "Statement: The leaves of the Jade plant are thick and require less water.\nConclusions:\nI. All plants with thick leaves need less water.\nII. Jade plants can survive with little water.",
+    "choices": [
+      "Only I is valid",
+      "Only II is valid",
+      "Either I or II",
+      "Neither I nor II",
+      "Both I and II"
+    ],
+    "answer": "Only II is valid",
+    "subject": "Analytical Ability",
+    "subtopic": "Logical Reasoning",
+    "explanation": "Conclusion II follows directly. Conclusion I is overgeneralization \u2014 it applies the statement to all plants, which is not supported."
+  },
+  {
+    "question": "Statement: This liquor can be drunk either as is or with ice.\nAssumptions:\nI. People have different preferences.\nII. Some people will like drinking it directly.",
+    "choices": [
+      "Only I is implicit",
+      "Only II is implicit",
+      "Either I or II",
+      "Neither I nor II",
+      "Both I and II"
+    ],
+    "answer": "Both I and II",
+    "subject": "Analytical Ability",
+    "subtopic": "Logical Reasoning",
+    "explanation": "The statement assumes people have different preferences (I) and that some will prefer drinking it straight (II), as both options are presented."
+  },
+  {
+    "question": "Statement: Many Filipino drivers are still deliberately violating traffic rules.\nConclusion:",
+    "choices": [
+      "Government must punish violators",
+      "Filipinos have the most road rage cases",
+      "Many Filipino drivers lack road discipline",
+      "Drivers tend to violate traffic rules",
+      "Discipline is easy with strict governance"
+    ],
+    "answer": "Many Filipino drivers lack road discipline",
+    "subject": "Analytical Ability",
+    "subtopic": "Logical Reasoning",
+    "explanation": "The statement clearly indicates repeated violations of traffic rules. This logically implies a lack of discipline among drivers. Other options introduce assumptions not directly stated."
+  },
+  {
+    "question": "Statement: In Hollywood, actors won't become famous without audience support.\nConclusion:",
+    "choices": [
+      "Audience cannot stop actors",
+      "Audience empathizes with actors",
+      "Mediocre actors can become famous",
+      "Actors become famous because audience supports them",
+      "Actors must please everyone"
+    ],
+    "answer": "Actors become famous because audience supports them",
+    "subject": "Analytical Ability",
+    "subtopic": "Logical Reasoning",
+    "explanation": "The statement emphasizes the role of audience support in achieving fame. Therefore, the conclusion logically follows that fame depends on audience approval."
+  },
+  {
+    "question": "Statement: Population increase and resource depletion will affect the Philippines.\nAssumptions:\nI. Population will not increase.\nII. Government will struggle to provide quality life.",
+    "choices": [
+      "Only I follows",
+      "Only II follows",
+      "Either I or II follows",
+      "Neither I nor II follows",
+      "Both I and II follow"
+    ],
+    "answer": "Only II follows",
+    "subject": "Analytical Ability",
+    "subtopic": "Logical Reasoning",
+    "explanation": "The statement suggests ongoing population increase and resource strain, implying difficulty for the government to provide a good quality of life. Statement I contradicts the premise, so it is invalid."
+  },
+  {
+    "question": "Statement: Public school enrollment increased while private dropped.\nConclusion:",
+    "choices": [
+      "Dropouts increased",
+      "DepEd lacks funds",
+      "More demand for teachers",
+      "Problems in tertiary system",
+      "Many families can't afford private schools"
+    ],
+    "answer": "Many families can't afford private schools",
+    "subject": "Analytical Ability",
+    "subtopic": "Logical Reasoning",
+    "explanation": "The shift from private to public schools suggests affordability issues. This is the most reasonable inference based on the data."
+  },
+  {
+    "question": "Statement: \"Put more people on the project to make up delay.\"\nAssumptions:\nI. Delay is common.\nII. More workers increase output.",
+    "choices": [
+      "Only I",
+      "Only II",
+      "Either I or II",
+      "Neither I nor II",
+      "Both I and II"
+    ],
+    "answer": "Only II",
+    "subject": "Analytical Ability",
+    "subtopic": "Logical Reasoning",
+    "explanation": "The suggestion assumes that adding more workers will increase productivity and compensate for delay. It does not assume delay is common."
+  },
+  {
+    "question": "Four ladies in line: Jean, Lisa, Vanna, Claire. Determine correct statement.",
+    "choices": [
+      "Jean is first",
+      "Lisa is last",
+      "Claire is second",
+      "Vanna is last",
+      "None are girls"
+    ],
+    "answer": "Vanna is last",
+    "subject": "Analytical Ability",
+    "subtopic": "Logical Reasoning",
+    "explanation": "By placing Jean between Claire and Lisa, and Lisa between Vanna and Jean, while Vanna is not first, the consistent arrangement results in Vanna being last."
+  },
+  {
+    "question": "Lailani\u2019s commute became uncomfortable after schedule change.\nWhich is true?",
+    "choices": [
+      "Bus is always late",
+      "Train is better",
+      "Commute is less comfortable now",
+      "People will complain",
+      "She will change jobs"
+    ],
+    "answer": "Commute is less comfortable now",
+    "subject": "Analytical Ability",
+    "subtopic": "Logical Reasoning",
+    "explanation": "The statement directly describes a previously comfortable commute that became crowded and inconvenient. Therefore, the only definite conclusion is decreased comfort."
+  },
+  {
+    "question": "Sarah and Mattheo changed vacation plans due to a typhoon.\nWhich is true?",
+    "choices": [
+      "They always go to beach",
+      "Booking requires 6 months",
+      "Spa is overpriced",
+      "They are rich",
+      "They changed plans because of the typhoon"
+    ],
+    "answer": "They changed plans because of the typhoon",
+    "subject": "Analytical Ability",
+    "subtopic": "Logical Reasoning",
+    "explanation": "The statement explicitly mentions that the typhoon caused the change in plans. Other options are assumptions without evidence."
+  },
+  {
+    "question": "Arrange seating of painter, carpenter, electrician, teacher, midwife.",
+    "choices": [
+      "painter, teacher, midwife, electrician, carpenter",
+      "carpenter, painter, teacher, midwife, electrician",
+      "painter, electrician, midwife, carpenter, teacher",
+      "teacher, midwife, carpenter, electrician, painter",
+      "electrician, painter, teacher, midwife, carpenter"
+    ],
+    "answer": "teacher, midwife, carpenter, electrician, painter",
+    "subject": "Analytical Ability",
+    "subtopic": "Logical Reasoning",
+    "explanation": "By applying all constraints (position relationships and fixed endpoints), the only consistent arrangement that satisfies all conditions is teacher, midwife, carpenter, electrician, painter."
+  },
+  {
+    "question": "Karen is older than Pamela. Jake is older than Karen.\nWhich is true?",
+    "choices": [
+      "Jake always loses",
+      "Karen is oldest",
+      "Karen hates losing",
+      "Pamela is youngest",
+      "Jake likes least"
+    ],
+    "answer": "Pamela is youngest",
+    "subject": "Analytical Ability",
+    "subtopic": "Logical Reasoning",
+    "explanation": "From the given relationships: Jake > Karen > Pamela. Therefore, Pamela is the youngest among the three."
+  }
+]
