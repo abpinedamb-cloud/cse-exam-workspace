@@ -481,26 +481,31 @@
     #navigator{
       display:grid;
       grid-template-columns:repeat(5, 1fr);
-      gap:8px;
+      gap:10px;
     }
 
     .nav-q-btn{
-      width:44px;
-      height:44px;
-      border:none;
-      border-radius:10px;
-      background:#334155;
-      color:white;
-      font-weight:700;
-      cursor:pointer;
-      transition:.18s ease;
-      box-shadow: inset 0 0 0 1px rgba(255,255,255,.04);
-	  width:100%;
-	  aspect-ratio: 1 / 1;
-	  font-size:13px;
-	  border-radius:8px;
+  width:100%;
+  aspect-ratio: 1 / 1;
 
-    }
+  border:none;
+  border-radius:8px;
+
+  background:#334155;
+  color:white;
+  font-weight:700;
+  cursor:pointer;
+
+  display:flex;
+  align-items:center;
+  justify-content:center;
+
+  font-size:12px;
+
+  transition:.18s ease;
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,.04);
+}
+
 
     .nav-q-btn:hover{transform:translateY(-1px)}
     .nav-q-btn.answered{background:#2563eb}
@@ -550,7 +555,7 @@
 
     /* Navigator collapse / expand */
     .navigator-expanded {
-      max-height: 350px;
+      max-height: 240px;
       overflow-y: auto;
       transition: max-height 0.3s ease;
     }
