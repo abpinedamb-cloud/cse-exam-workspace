@@ -421,6 +421,15 @@
   display: none;
 }
 
+/* ✅ DESKTOP FIX — CRITICAL */
+.desktop-controls {
+  display: flex;
+}
+
+.mobile-controls {
+  display: none;
+}
+
 /* ✅ FIX ALL DROPDOWNS (NOTE TAG + NOTES FILTER) */
 #noteTagSelect,
 #notesFilter {
@@ -850,10 +859,14 @@
     display: none;
     width: 100%;
     border-right: none;
+	transform: translateX(-100%);
+	transition: transform 0.3s ease;
+
   }
 
   .left-nav.mobile-show {
     display: block;
+	transform: translateX(0);
   }
 
   /* ✅ TOPBAR ADJUST */
@@ -948,6 +961,25 @@
     width: 100% !important;
     height: auto !important;
   }
+  .metric-strip {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+/* ✅ Second row (2 items only) */
+.metric-box:nth-child(4),
+.metric-box:nth-child(5) {
+  grid-column: span 1;
+}
+/* ✅ MOBILE ONLY CORRECT RULES */
+.desktop-controls {
+  display: none;
+}
+
+.mobile-controls {
+  display: flex;
+}
 
 }
   </style>
@@ -1027,6 +1059,8 @@
 
     <!-- TOP BAR -->
 <header class="topbar">
+
+  <!-- LEFT SIDE -->
   <div class="topbar-left">
     <div class="topbar-title">Live Exam Workspace</div>
 
@@ -1039,10 +1073,21 @@
     </div>
   </div>
 
-  <!-- ✅ MODE CONTROL + INDICATOR (FIXED + WORKING) -->
-  <div style="display:flex; align-items:center; gap:10px;">
+  <!-- DESKTOP CONTROLS -->
+  <div class="desktop-controls" style="align-items:center; gap:10px;">
 
-    <!-- MODE INDICATOR -->
+    <button class="btn btn-dark"
+            onclick="setMode('practice')"
+            style="padding:7px 10px; font-size:12px;">
+      Practice
+    </button>
+
+    <button class="btn btn-dark"
+            onclick="setMode('exam')"
+            style="padding:7px 10px; font-size:12px;">
+      Exam
+    </button>
+
     <div id="modeIndicator" style="
       font-weight:600;
       font-size:13px;
@@ -1057,7 +1102,17 @@
       🟢 Mode: Practice
     </div>
 
-    <!-- MODE BUTTONS -->
+  </div>
+
+  <!-- MOBILE CONTROLS -->
+  <div class="mobile-controls" style="align-items:center; gap:10px; flex-wrap:wrap;">
+
+    <button class="btn btn-dark mobile-menu-btn"
+            onclick="toggleMobileNav()"
+            style="padding:7px 10px; font-size:12px;">
+      ☰ Menu
+    </button>
+
     <button class="btn btn-dark"
             onclick="setMode('practice')"
             style="padding:7px 10px; font-size:12px;">
@@ -1069,17 +1124,24 @@
             style="padding:7px 10px; font-size:12px;">
       Exam
     </button>
-	
-	<button class="btn btn-dark mobile-menu-btn"
-        onclick="toggleMobileNav()"
-        style="padding:7px 10px; font-size:12px;">
-☰ Menu
-</button>
 
+    <div id="mobileModeIndicator" style="
+      font-weight:600;
+      font-size:13px;
+      padding:8px 14px;
+      border-radius:10px;
+      background:#0f3d2e;
+      color:#c9ffd9;
+      border:1px solid #22c55e;
+      min-width:120px;
+      text-align:center;
+    ">
+      🟢 Mode: Practice
+    </div>
 
   </div>
 
-  <!-- ORIGINAL METRICS -->
+  <!-- METRICS -->
   <div class="metric-strip">
     <div class="metric-box" id="timerBox">
       <span class="metric-label">Time Left</span>
@@ -1106,6 +1168,7 @@
       <span class="metric-value" id="remainingCountTop">0</span>
     </div>
   </div>
+
 </header>
 
     <!-- MAIN -->
