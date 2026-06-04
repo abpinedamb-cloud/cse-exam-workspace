@@ -1384,4 +1384,12 @@ function toggleSavedNotes() {
     wrapper.style.maxHeight = "400px";
     if (btn) btn.innerText = "Expand";
   }
+  
+  function toggleMobileNav() {
+  const nav = document.querySelector(".left-nav");
+  if (!nav) return;
+
+  nav.classList.toggle("mobile-show");
+}
+
 }
