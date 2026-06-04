@@ -3,6 +3,7 @@ let current = 0;
 let answers = {};
 let marked = {};
 let examFinished = false;
+let examSubmitted = false; 
 let chartInstance = null;
 let mode = "practice"; // "practice" or "exam"
 
@@ -368,6 +369,7 @@ async function loadFreshQuestions(keepProgress = false) {
       marked = {};
       remainingSeconds = TOTAL_SECONDS;
       examFinished = false;
+	  examSubmitted = false;
       clearSavedProgress();
     }
 
@@ -381,6 +383,7 @@ async function startExamNow() {
   await loadFreshQuestions(false);
   remainingSeconds = TOTAL_SECONDS;
   examFinished = false;
+  examSubmitted = false;
 
   updateTimerDisplay();
   updateCountdownBar();
@@ -464,6 +467,7 @@ function saveProgress() {
     current,
     remainingSeconds,
     examFinished,
+	examSubmitted,
     questions: data,
     mode
   };
@@ -485,6 +489,7 @@ function loadProgress() {
         ? state.remainingSeconds
         : TOTAL_SECONDS;
     examFinished = !!state.examFinished;
+	examSubmitted = !!state.examSubmitted;
 
     if (state.mode === "practice" || state.mode === "exam") {
       mode = state.mode;
@@ -756,6 +761,8 @@ function updatePaceTimer() {
    Explanation / Answer handling
 ----------------------------- */
 function handleChoiceClick(index, encodedChoice) {
+  if (examSubmitted) return;   // ✅ BLOCK ALL AFTER SUBMIT
+
   const choice = decodeURIComponent(encodedChoice);
 
   if (answers[index] !== undefined) return;
@@ -841,13 +848,15 @@ function render() {
   q.choices.forEach((choice) => {
     const selected = answers[current] === choice;
     const alreadyAnswered = answers[current] !== undefined;
-    const disabledClass = alreadyAnswered ? "opacity:0.6; cursor:not-allowed;" : "";
+	const locked = alreadyAnswered || examSubmitted;
+    const disabledClass = locked ? "opacity:0.6; cursor:not-allowed;" : "";
 
     html += `
       <button
         class="choice-btn ${selected ? "selected" : ""} fade-in"
         style="${disabledClass}"
         onclick="handleChoiceClick(${current}, '${encodeURIComponent(choice)}')"
+		${locked ? "disabled" : ""}
       >
         ${escapeHtml(choice)}
       </button>
@@ -885,6 +894,7 @@ function render() {
 }
 
 function selectAnswer(index, choice) {
+  if (examSubmitted) return;   // ✅ BLOCK AFTER SUBMIT
   if (answers[index] !== undefined) return;
 
   answers[index] = choice;
@@ -1069,8 +1079,10 @@ function refreshReviewScreen() {
 ----------------------------- */
 function submitExam() {
   if (examFinished) return;
-
+  
+  examSubmitted = true;
   examFinished = true;
+  
   stopCountdown();
   saveProgress();
   updatePaceStatus();
@@ -1149,6 +1161,7 @@ function submitExam() {
   setTimeout(() => {
     byId("subtopicChart")?.scrollIntoView({ behavior: "smooth" });
   }, 300);
+  render();
 }
 
 function renderChart(labels, values) {
