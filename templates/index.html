@@ -190,6 +190,11 @@
       justify-content:space-between;
       gap:16px;
       padding:12px 18px;
+	  
+	  
+	  position: sticky;
+	  top: 0;
+	  z-index: 999;
     }
 
     .topbar-left{
@@ -815,17 +820,22 @@
 	/* ✅ MOBILE RESPONSIVE FIX */
 @media (max-width: 768px){
 
-  /* ✅ SWITCH FROM GRID TO STACK */
+  /* ✅ SWITCH TO MOBILE STACK */
   .app-shell {
     display: flex;
     flex-direction: column;
   }
 
-  /* ✅ KEEP LEFT NAV (TOP MENU STYLE) */
+  /* ✅ LEFT NAV (hidden by default, toggle via JS) */
   .left-nav {
+    display: none;
     width: 100%;
     border-right: none;
     order: 1;
+  }
+
+  .left-nav.mobile-show {
+    display: block;
   }
 
   /* ✅ TOPBAR */
@@ -842,29 +852,19 @@
     order: 3;
   }
 
-  /* ✅ RIGHT SIDE NOW MOVES BELOW */
+  /* ✅ RIGHT PANEL */
   .right-side {
     width: 100%;
     padding: 10px;
     order: 4;
   }
 
-  /* ✅ FOOTER AT VERY BOTTOM */
+  /* ✅ FOOTER */
   .footer {
     order: 5;
   }
-  /* ✅ FULL WIDTH CARDS ON MOBILE */
-.result-card {
-  max-width: 100%;
-}
 
-}
-/* =========================
-   ✅ ========================= */   ✅ MOBILE SAFE PATCHES
-
-@media (max-width: 768px){
-
-  /* ✅ Buttons */
+  /* ✅ BUTTONS (FULL WIDTH + TOUCH FRIENDLY) */
   .btn,
   .choice-btn {
     width: 100%;
@@ -872,7 +872,7 @@
     padding: 14px;
   }
 
-  /* ✅ Stack controls */
+  /* ✅ STACK CONTROLS */
   .main-controls {
     flex-direction: column;
     align-items: stretch;
@@ -882,24 +882,39 @@
     width: 100%;
   }
 
-  /* ✅ Question readability */
+  /* ✅ QUESTION TEXT */
   #question {
     font-size: 20px;
     line-height: 1.5;
   }
 
-  /* ✅ Navigator grid */
+  /* ✅ NAVIGATOR GRID */
   #navigator {
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(5, 1fr);
   }
 
-  /* ✅ Chart fix */
-  canvas {
-    width: 100% !important;
-    height: auto !important;
+  /* ✅ LIMIT NAVIGATOR HEIGHT */
+  .navigator-expanded {
+    max-height: 200px;
+    overflow-y: auto;
   }
 
-  /* ✅ Notes panel */
+  .navigator-collapsed {
+    max-height: 0;
+    overflow: hidden;
+  }
+
+  /* ✅ CARDS FULL WIDTH */
+  .result-card {
+    max-width: 100%;
+  }
+
+  /* ✅ SIDE PANEL SPACING */
+  .side-card {
+    margin-bottom: 12px;
+  }
+
+  /* ✅ NOTES PANEL */
   #savedNotesWrapper {
     max-height: 200px !important;
   }
@@ -907,13 +922,12 @@
   .panel-textarea {
     min-height: 160px;
   }
-  /* ✅ Navigator spacing fix */
-#navigator {
-  grid-template-columns: repeat(5, 1fr);
-}
-.side-card {
-  margin-bottom: 12px;
-}
+
+  /* ✅ CANVAS FIX */
+  canvas {
+    width: 100% !important;
+    height: auto !important;
+  }
 
 }
   </style>
@@ -1035,6 +1049,13 @@
             style="padding:7px 10px; font-size:12px;">
       Exam
     </button>
+	
+	<button class="btn btn-dark"
+        onclick="toggleMobileNav()"
+        style="padding:7px 10px; font-size:12px;">
+☰ Menu
+</button>
+
 
   </div>
 
