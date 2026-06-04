@@ -76,16 +76,15 @@ function updateModeUI() {
   const examBtn = byId("modeExamBtn");
   const modeStatus = byId("modeStatus");
   const modeIndicator = byId("modeIndicator");
+  const mobileModeIndicator = byId("mobileModeIndicator");
 
   const isPractice = mode === "practice";
   const modeText = isPractice ? "Practice" : "Exam";
 
-  // Settings label
   if (modeStatus) {
     modeStatus.innerText = `Current mode: ${modeText}`;
   }
 
-  // Top bar indicator
   if (modeIndicator) {
     modeIndicator.innerText = `${isPractice ? "🟢" : "🔴"} Mode: ${modeText}`;
     modeIndicator.style.background = isPractice ? "#0f3d2e" : "#3b1a1a";
@@ -95,7 +94,15 @@ function updateModeUI() {
       : "1px solid #ef4444";
   }
 
-  // Settings buttons highlight
+  if (mobileModeIndicator) {
+    mobileModeIndicator.innerText = `${isPractice ? "🟢" : "🔴"} Mode: ${modeText}`;
+    mobileModeIndicator.style.background = isPractice ? "#0f3d2e" : "#3b1a1a";
+    mobileModeIndicator.style.color = isPractice ? "#c9ffd9" : "#ffd6d6";
+    mobileModeIndicator.style.border = isPractice
+      ? "1px solid #22c55e"
+      : "1px solid #ef4444";
+  }
+
   if (practiceBtn) {
     practiceBtn.classList.toggle("btn-primary", isPractice);
     practiceBtn.classList.toggle("btn-dark", !isPractice);
@@ -106,7 +113,6 @@ function updateModeUI() {
     examBtn.classList.toggle("btn-dark", isPractice);
   }
 
-  // Sidebar mode highlight
   const modePracticeItem = byId("modePracticeItem");
   const modeExamItem = byId("modeExamItem");
 
@@ -118,6 +124,7 @@ function updateModeUI() {
     modeExamItem.classList.toggle("active", !isPractice);
   }
 }
+
 
 /* -----------------------------
    Boot
@@ -1372,7 +1379,6 @@ let notesExpanded = false;
 function toggleSavedNotes() {
   const wrapper = byId("savedNotesWrapper");
   const btn = event?.target;
-
   if (!wrapper) return;
 
   notesExpanded = !notesExpanded;
@@ -1384,12 +1390,11 @@ function toggleSavedNotes() {
     wrapper.style.maxHeight = "400px";
     if (btn) btn.innerText = "Expand";
   }
-  
-  function toggleMobileNav() {
-  const nav = document.querySelector(".left-nav");
-  if (!nav) return;
-
-  nav.classList.toggle("mobile-show");
 }
 
+/* ✅ MOVE THIS OUTSIDE (IMPORTANT) */
+function toggleMobileNav() {
+  const nav = document.querySelector(".left-nav");
+  if (!nav) return;
+  nav.classList.toggle("mobile-show");
 }
