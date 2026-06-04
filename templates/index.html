@@ -815,37 +815,48 @@
 	/* ✅ MOBILE RESPONSIVE FIX */
 @media (max-width: 768px){
 
+  /* ✅ SWITCH FROM GRID TO STACK */
   .app-shell {
-    grid-template-columns: 1fr;
-    grid-template-rows: auto auto auto auto;
+    display: flex;
+    flex-direction: column;
   }
 
+  /* ✅ KEEP LEFT NAV (TOP MENU STYLE) */
   .left-nav {
-    display: none;
+    width: 100%;
+    border-right: none;
+    order: 1;
   }
 
-  .right-side {
-    display: none;
-  }
-
+  /* ✅ TOPBAR */
   .topbar {
     flex-direction: column;
     align-items: flex-start;
+    order: 2;
   }
 
-  .metric-strip {
-    justify-content: flex-start;
-    flex-wrap: wrap;
-  }
-
+  /* ✅ MAIN CONTENT */
   .main-content {
+    width: 100%;
     padding: 10px;
+    order: 3;
   }
 
-  .result-card {
+  /* ✅ RIGHT SIDE NOW MOVES BELOW */
+  .right-side {
     width: 100%;
-    max-width: 100%;
+    padding: 10px;
+    order: 4;
   }
+
+  /* ✅ FOOTER AT VERY BOTTOM */
+  .footer {
+    order: 5;
+  }
+  /* ✅ FULL WIDTH CARDS ON MOBILE */
+.result-card {
+  max-width: 100%;
+}
 
 }
 /* =========================
@@ -896,24 +907,13 @@
   .panel-textarea {
     min-height: 160px;
   }
-
-  /* ✅ Mobile Nav Bar */
-  .mobile-nav{
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    background: #0b1424;
-    display: flex;
-    justify-content: space-around;
-    padding: 10px;
-    z-index: 9999;
-    border-top: 1px solid rgba(255,255,255,.08);
-  }
-
-  body {
-    padding-bottom: 70px;
-  }
+  /* ✅ Navigator spacing fix */
+#navigator {
+  grid-template-columns: repeat(5, 1fr);
+}
+.side-card {
+  margin-bottom: 12px;
+}
 
 }
   </style>
@@ -1415,12 +1415,7 @@
       <span>S = Submit</span>
     </footer>
   </div>
-<!-- ✅ MOBILE NAVIGATION (SAFE ADD) -->
-<div class="mobile-nav">
-  <button class="btn btn-dark" onclick="prev()">⬅</button>
-  <button class="btn btn-dark" onclick="next()">➡</button>
-  <button class="btn btn-success" onclick="submitExam()">Submit</button>
-</div>
+  
   <script src="/static/app.js"></script>
 </body>
 </html>
