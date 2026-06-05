@@ -878,12 +878,15 @@
 }
 
   /* ✅ TOPBAR ADJUST */
-  .topbar {
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 8px 12px;
-    gap: 6px;
-  }
+  
+.topbar {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;       /* ✅ FIX 1 */
+  justify-content: flex-start;/* ✅ FIX 2 (CRITICAL) */
+  padding: 8px 12px;
+  gap: 6px;
+}
 
   .topbar-title { font-size: 13px; }
   .topbar-subline { font-size: 11px; }
@@ -1008,6 +1011,7 @@
   grid-template-columns: repeat(3, 1fr);
   gap: 6px;
   width: 100%;
+  align-items: stretch;  /* ✅ BONUS FIX */
 }
 
 .mobile-controls .btn {
@@ -1082,12 +1086,6 @@
   background: #0f3d2e;
   color: #c9ffd9;
   border: 1px solid #22c55e;
-}
-
-/* ✅ METRICS directly below mode */
-.metric-strip {
-  width: 100%;
-  margin-top: 4px;
 }
 }
   </style>
