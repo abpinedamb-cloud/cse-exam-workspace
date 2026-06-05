@@ -969,10 +969,27 @@
     width: 100% !important;
     height: auto !important;
   }
-  .metric-strip {
+  
+.metric-strip {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 10px;
+  gap: 6px;
+  width: 100%;
+  margin-top: 4px;
+}
+
+.metric-box {
+  padding: 6px;
+  border-radius: 10px;
+  min-width: 0;
+}
+
+.metric-label {
+  font-size: 8px;
+}
+
+.metric-value {
+  font-size: 11px;
 }
 
 /* ✅ Second row (2 items only) */
@@ -984,20 +1001,6 @@
 .desktop-controls {
   display: none;
 }
-
-.mobile-controls {
-  display: flex;
-}
-/* ✅ FIX TOP 3 BUTTONS */
-.mobile-controls {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 6px;
-  width: 100%;
-}
-
-/* ✅ REMOVE FULL WIDTH JUST FOR THESE BUTTONS */
-
 .mobile-controls {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -1006,16 +1009,33 @@
 }
 
 .mobile-controls .btn {
-  width: auto !important;
+  width: 100%;
   padding: 8px;
   font-size: 12px;
+  border-radius: 8px;
 }
+
 /* ✅ MOBILE: exam action buttons layout */
 .main-controls {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 8px;
   width: 100%;
+}
+/* ✅ MOBILE OVERLAY (NEW) */
+#mobileOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,.6);
+  z-index: 900;
+  display: none;
+}
+
+#mobileOverlay.active {
+  display: block;
 }
 
 .main-controls .control-group:first-child {
@@ -1073,6 +1093,9 @@
 </head>
 
 <body>
+
+  <div id="mobileOverlay"></div>
+
   <div class="app-shell">
 
     <!-- LEFT NAV -->
