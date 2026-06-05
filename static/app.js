@@ -1397,16 +1397,13 @@ function toggleSavedNotes() {
     if (btn) btn.innerText = "Expand";
   }
 }
-
-
 function closeMobileNav() {
   const nav = document.querySelector(".left-nav");
   const overlay = document.getElementById("mobileOverlay");
 
   if (nav) nav.classList.remove("mobile-show");
   if (overlay) overlay.classList.remove("active");
-
-/* ✅ MOVE THIS OUTSIDE (IMPORTANT) */
+}
 
 function toggleMobileNav() {
   const nav = document.querySelector(".left-nav");
@@ -1418,6 +1415,9 @@ function toggleMobileNav() {
 
   if (overlay) {
     overlay.classList.toggle("active");
+  }
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   const overlay = document.getElementById("mobileOverlay");
   if (overlay) {
