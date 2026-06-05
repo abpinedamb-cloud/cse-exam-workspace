@@ -60,6 +60,7 @@ function setMode(newMode) {
   updateModeUI();
   render();
   saveProgress();
+  closeMobileNav();
 }
 
 function loadMode() {
@@ -406,6 +407,7 @@ async function startExamNow() {
   saveProgress();
 
   collapseNavigator();
+  closeMobileNav();
 }
 
 async function restartExam() {
@@ -574,6 +576,10 @@ window.scrollTo(0, 0);
   if (section === "notesScreen") setActiveMenu("menuNotes");
   if (section === "settingsScreen") setActiveMenu("menuSettings");
   if (section === "helpScreen") setActiveMenu("menuHelp");
+  
+  
+  closeMobileNav();
+
 }
 
 
@@ -1392,9 +1398,29 @@ function toggleSavedNotes() {
   }
 }
 
+
+function closeMobileNav() {
+  const nav = document.querySelector(".left-nav");
+  const overlay = document.getElementById("mobileOverlay");
+
+  if (nav) nav.classList.remove("mobile-show");
+  if (overlay) overlay.classList.remove("active");
+
 /* ✅ MOVE THIS OUTSIDE (IMPORTANT) */
+
 function toggleMobileNav() {
   const nav = document.querySelector(".left-nav");
+  const overlay = document.getElementById("mobileOverlay");
+
   if (!nav) return;
+
   nav.classList.toggle("mobile-show");
-}
+
+  if (overlay) {
+    overlay.classList.toggle("active");
+document.addEventListener("DOMContentLoaded", () => {
+  const overlay = document.getElementById("mobileOverlay");
+  if (overlay) {
+    overlay.addEventListener("click", closeMobileNav);
+  }
+});
